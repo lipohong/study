@@ -2,7 +2,7 @@
 title: "練習模板"
 date: 2026-09-17 09:00:00 +0800
 permalink: /zh-hant/templates/practice-drill/
-categories: [templates]
+categories: [docs, templates]
 tags: [learning, template, workspace]
 description: "templates 紀錄：練習模板"
 comments: false
@@ -46,7 +46,7 @@ record_type: templates
 ## 作答指示
 
 1. 先嘗試，不要在收到最終答案後才作答。
-2. 將未經編輯的作答儲存在 `Practice/Attempts/`。
+2. 將未經編輯的作答儲存在 `_posts/attempts/`。
 3. 請求根據成功準則給予回饋。
 4. 在反思筆記中寫下最小而有用的修正。
 

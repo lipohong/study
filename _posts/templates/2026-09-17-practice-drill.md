@@ -2,7 +2,7 @@
 title: "Practice Drill Template"
 date: 2026-09-17 09:00:00 +0800
 permalink: /templates/practice-drill/
-categories: [templates]
+categories: [docs, templates]
 tags: [learning, template, workspace]
 description: "templates record: Practice Drill Template."
 comments: false
@@ -42,7 +42,7 @@ Describe the task exactly as it should be attempted. Include realistic constrain
 ## Attempt instructions
 
 1. Attempt first without receiving the final answer.
-2. Save the unedited work under `Practice/Attempts/`.
+2. Save the unedited work under `_posts/attempts/`.
 3. Request feedback against the success criteria.
 4. Write the smallest useful correction in a reflection note.
 

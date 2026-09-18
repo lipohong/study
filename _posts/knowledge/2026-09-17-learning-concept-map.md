@@ -2,7 +2,7 @@
 title: "Learning concept map: from cognitive supports to mastery"
 date: 2026-09-17 09:00:00 +0800
 permalink: /knowledge/learning-concept-map/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge record: Learning concept map: from cognitive supports to mastery."
 comments: false

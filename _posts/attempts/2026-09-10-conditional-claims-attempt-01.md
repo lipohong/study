@@ -2,7 +2,7 @@
 title: "Attempt 01: Conditional causal claims"
 date: 2026-09-10 09:00:00 +0800
 permalink: /practice/attempts/conditional-claims-attempt-01/
-categories: [attempts]
+categories: [practice, attempts]
 tags: [learning, practice-evidence, attempt]
 description: "attempts record: Attempt 01: Conditional causal claims."
 comments: false

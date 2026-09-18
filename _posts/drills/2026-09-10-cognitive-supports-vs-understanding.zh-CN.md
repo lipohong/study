@@ -2,7 +2,7 @@
 title: "練習：認知支援與理解"
 date: 2026-09-10 09:00:00 +0800
 permalink: /zh-hant/practice/drills/cognitive-supports-vs-understanding/
-categories: [drills]
+categories: [practice, active-drills]
 tags: [learning, deliberate-practice, drill]
 description: "drills 紀錄：練習：認知支援與理解"
 comments: false

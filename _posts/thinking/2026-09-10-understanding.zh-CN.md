@@ -2,7 +2,7 @@
 title: "思考：甚麼算是理解？"
 date: 2026-09-10 09:00:00 +0800
 permalink: /zh-hant/thinking/understanding/
-categories: [thinking]
+categories: [notes, thinking]
 tags: [learning, learner-reasoning, capture]
 description: "thinking 紀錄：思考：甚麼算是理解？"
 comments: false

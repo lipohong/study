@@ -2,7 +2,7 @@
 title: "目前學習狀態"
 date: 2026-09-17 09:00:00 +0800
 permalink: /zh-hant/context/learning-state/
-categories: [learner-context]
+categories: [docs, learner-context]
 tags: [learning, learner-context, learning-state]
 description: "learner-context 紀錄：目前學習狀態"
 comments: false

@@ -2,7 +2,7 @@
 title: "練習：分類理解與掌握層級"
 date: 2026-09-11 09:00:00 +0800
 permalink: /zh-hant/practice/drills/understanding-and-mastery-levels/
-categories: [drills]
+categories: [practice, active-drills]
 tags: [learning, deliberate-practice, drill]
 description: "drills 紀錄：練習：分類理解與掌握層級"
 comments: false

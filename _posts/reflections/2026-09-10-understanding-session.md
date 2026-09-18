@@ -2,7 +2,7 @@
 title: "Reflection: Initial session on understanding"
 date: 2026-09-10 09:00:00 +0800
 permalink: /reflections/understanding-session/
-categories: [reflections]
+categories: [notes, reflections]
 tags: [learning, reflection, deliberate-practice]
 description: "reflections record: Reflection: Initial session on understanding."
 comments: false

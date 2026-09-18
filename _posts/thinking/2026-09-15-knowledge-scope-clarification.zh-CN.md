@@ -2,7 +2,7 @@
 title: "範圍修正：知識，而不是理解"
 date: 2026-09-15 09:00:00 +0800
 permalink: /zh-hant/thinking/knowledge-scope-clarification/
-categories: [thinking]
+categories: [notes, thinking]
 tags: [learning, learner-reasoning, capture]
 description: "thinking 紀錄：範圍修正：知識，而不是理解"
 comments: false

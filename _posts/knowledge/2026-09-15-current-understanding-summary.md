@@ -2,7 +2,7 @@
 title: "Superseded summary — model of understanding"
 date: 2026-09-15 09:00:00 +0800
 permalink: /knowledge/current-understanding-summary/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge record: Superseded summary — model of understanding."
 comments: false

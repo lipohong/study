@@ -10,18 +10,17 @@ This is a bilingual, Jekyll-first archive for deliberate practice and self-direc
 
 ## Content library
 
-All learning Markdown lives in `_posts/<record-type>/`. Each post has one top-level category that identifies its role and powers the Jekyll category view.
+All learning Markdown lives in `_posts/<record-type>/`. Post folders and `record_type` identify the kind of record; `categories` provide the compact, two-level navigation shown on the Jekyll Categories page. The first category is the group and the second is its subcategory. Do not add a third category level; use tags for finer distinctions.
 
-| Category | What it contains |
-|---|---|
-| `goals` | Active goal, long-term goal, and breakdown |
-| `learner-context` | Learner profile and current learning state |
-| `knowledge` | Reusable concepts, models, explanations, and diagrams |
-| `ideas`, `thinking`, `reflections` | Captures, learner reasoning, and reflection |
-| `drills`, `attempts`, `feedback`, `scorecards` | Deliberate-practice evidence |
-| `sources` | Source records and citation notes |
-| `logs`, `reviews` | Chronological session history and synthesis |
-| `templates` | Reusable post structures |
+| Category group | Subcategories | Record types / folders |
+|---|---|---|
+| `goals` | — | Goals and outcomes: `_posts/goals/` |
+| `notes` | `ideas`, `thinking`, `reflections`, `distilled` | Captures, learner reasoning, reflections, and reusable knowledge: `_posts/ideas/`, `_posts/thinking/`, `_posts/reflections/`, `_posts/knowledge/` |
+| `practice` | `active-drills`, `attempts`, `feedback`, `scorecards` | Deliberate-practice specifications and evidence: `_posts/drills/`, `_posts/attempts/`, `_posts/feedback/`, `_posts/scorecards/` |
+| `docs` | `learner-context`, `templates` | Learner profile/current state and reusable record structures: `_posts/learner-context/`, `_posts/templates/` |
+| `sources` | `references` | Source records, citation notes, and approved reference materials: `_posts/sources/` |
+| `log` | `daily`, `raw-history` | Daily session records and deliberately retained raw traces: `_posts/logs/`, `_posts/raw-history/` |
+| `reviews` | — | Daily, weekly, or monthly synthesis: `_posts/reviews/` |
 
 Each English canonical post has a Chinese partner beside it:
 
@@ -30,7 +29,7 @@ _posts/knowledge/2026-09-17-topic.md
 _posts/knowledge/2026-09-17-topic.zh-CN.md
 ```
 
-Posts use explicit English and Chinese permalinks, stable categories, and narrow topic tags. Link posts by permalink and link visual assets from `/Diagrams/`; do not use relative links to old workspace folders.
+Posts use explicit English and Chinese permalinks, the routing-table category hierarchy, and narrow topic tags. Link posts by permalink and link visual assets from `/Diagrams/`; do not use relative links to old workspace folders.
 
 ## Creating a record
 

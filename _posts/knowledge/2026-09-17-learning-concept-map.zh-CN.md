@@ -2,7 +2,7 @@
 title: "學習概念圖：從認知支援到掌握"
 date: 2026-09-17 09:00:00 +0800
 permalink: /zh-hant/knowledge/learning-concept-map/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge 紀錄：學習概念圖：從認知支援到掌握"
 comments: false

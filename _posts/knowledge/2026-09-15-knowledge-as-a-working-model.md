@@ -2,7 +2,7 @@
 title: "Knowledge: a working map"
 date: 2026-09-15 09:00:00 +0800
 permalink: /knowledge/knowledge-as-a-working-model/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge record: Knowledge: a working map."
 comments: false

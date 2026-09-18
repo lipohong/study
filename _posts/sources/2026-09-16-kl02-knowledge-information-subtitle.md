@@ -2,7 +2,7 @@
 title: "Source Record: KL02 Knowledge Versus Information Subtitle"
 date: 2026-09-16 09:00:00 +0800
 permalink: /sources/kl02-knowledge-information-subtitle/
-categories: [sources]
+categories: [sources, references]
 tags: [learning, references, source]
 description: "sources record: Source Record: KL02 Knowledge Versus Information Subtitle."
 comments: false

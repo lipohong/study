@@ -2,7 +2,7 @@
 title: "Feedback: Initial diagnostic on understanding"
 date: 2026-09-10 09:00:00 +0800
 permalink: /practice/feedback/understanding-diagnostic/
-categories: [feedback]
+categories: [practice, feedback]
 tags: [learning, rubric, feedback]
 description: "feedback record: Feedback: Initial diagnostic on understanding."
 comments: false

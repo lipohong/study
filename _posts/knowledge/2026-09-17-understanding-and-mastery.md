@@ -2,7 +2,7 @@
 title: "Understanding and mastery"
 date: 2026-09-17 09:00:00 +0800
 permalink: /knowledge/understanding-and-mastery/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge record: Understanding and mastery."
 comments: false

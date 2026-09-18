@@ -2,7 +2,7 @@
 title: "Understanding a word or idiom"
 date: 2026-09-17 09:00:00 +0800
 permalink: /knowledge/understanding-words-and-idioms/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge record: Understanding a word or idiom."
 comments: false

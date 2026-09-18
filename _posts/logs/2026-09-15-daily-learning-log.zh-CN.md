@@ -2,7 +2,7 @@
 title: "每日學習日誌 — 2026-09-15"
 date: 2026-09-15 09:00:00 +0800
 permalink: /zh-hant/log/2026-09-15/
-categories: [logs]
+categories: [log, daily]
 tags: [learning, session-log, chronology]
 description: "logs 紀錄：每日學習日誌 — 2026-09-15"
 comments: false

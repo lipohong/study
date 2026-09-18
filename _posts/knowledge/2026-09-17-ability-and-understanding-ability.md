@@ -2,7 +2,7 @@
 title: "Ability and understanding ability"
 date: 2026-09-17 09:00:00 +0800
 permalink: /knowledge/ability-and-understanding-ability/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge record: Ability and understanding ability."
 comments: false

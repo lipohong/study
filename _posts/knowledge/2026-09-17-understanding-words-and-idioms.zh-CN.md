@@ -2,7 +2,7 @@
 title: "理解一個單字或慣用語"
 date: 2026-09-17 09:00:00 +0800
 permalink: /zh-hant/knowledge/understanding-words-and-idioms/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge 紀錄：理解一個單字或慣用語"
 comments: false

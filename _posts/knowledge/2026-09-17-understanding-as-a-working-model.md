@@ -2,7 +2,7 @@
 title: "Understanding as a working model"
 date: 2026-09-17 09:00:00 +0800
 permalink: /knowledge/understanding-as-a-working-model/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge record: Understanding as a working model."
 comments: false

@@ -2,7 +2,7 @@
 title: "Current Learning State"
 date: 2026-09-17 09:00:00 +0800
 permalink: /context/learning-state/
-categories: [learner-context]
+categories: [docs, learner-context]
 tags: [learning, learner-context, learning-state]
 description: "learner-context record: Current Learning State."
 comments: false

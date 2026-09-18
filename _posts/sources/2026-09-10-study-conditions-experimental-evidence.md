@@ -2,7 +2,7 @@
 title: "Experimental evidence relevant to study conditions"
 date: 2026-09-10 09:00:00 +0800
 permalink: /sources/study-conditions-experimental-evidence/
-categories: [sources]
+categories: [sources, references]
 tags: [learning, references, source]
 description: "sources record: Experimental evidence relevant to study conditions."
 comments: false

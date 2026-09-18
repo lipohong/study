@@ -2,7 +2,7 @@
 title: "Daily Learning Log — 2026-09-08"
 date: 2026-09-08 09:00:00 +0800
 permalink: /log/2026-09-08/
-categories: [logs]
+categories: [log, daily]
 tags: [learning, session-log, chronology]
 description: "logs record: Daily Learning Log — 2026-09-08."
 comments: false

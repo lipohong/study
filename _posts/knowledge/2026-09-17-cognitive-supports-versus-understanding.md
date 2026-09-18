@@ -2,7 +2,7 @@
 title: "Cognitive supports versus understanding ability"
 date: 2026-09-17 09:00:00 +0800
 permalink: /knowledge/cognitive-supports-versus-understanding/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge record: Cognitive supports versus understanding ability."
 comments: false

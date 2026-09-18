@@ -2,7 +2,7 @@
 title: "Practice Drill: Conditional causal claims"
 date: 2026-09-10 09:00:00 +0800
 permalink: /practice/drills/conditional-claims/
-categories: [drills]
+categories: [practice, active-drills]
 tags: [learning, deliberate-practice, drill]
 description: "drills record: Practice Drill: Conditional causal claims."
 comments: false

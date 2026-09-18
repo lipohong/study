@@ -2,7 +2,7 @@
 title: "學習者檔案"
 date: 2026-09-17 09:00:00 +0800
 permalink: /zh-hant/context/learner-profile/
-categories: [learner-context]
+categories: [docs, learner-context]
 tags: [learning, learner-context, learning-state]
 description: "learner-context 紀錄：學習者檔案"
 comments: false

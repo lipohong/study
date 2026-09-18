@@ -2,7 +2,7 @@
 title: "尝试 01：条件性因果主张"
 date: 2026-09-10 09:00:00 +0800
 permalink: /zh-hant/practice/attempts/conditional-claims-attempt-01/
-categories: [attempts]
+categories: [practice, attempts]
 tags: [learning, practice-evidence, attempt]
 description: "attempts 紀錄：尝试 01：条件性因果主张"
 comments: false

@@ -2,7 +2,7 @@
 title: "Practice Drill: Cognitive supports versus understanding"
 date: 2026-09-10 09:00:00 +0800
 permalink: /practice/drills/cognitive-supports-vs-understanding/
-categories: [drills]
+categories: [practice, active-drills]
 tags: [learning, deliberate-practice, drill]
 description: "drills record: Practice Drill: Cognitive supports versus understanding."
 comments: false

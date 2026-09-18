@@ -2,7 +2,7 @@
 title: "知識、資訊與理解：KL02 分析"
 date: 2026-09-17 09:00:00 +0800
 permalink: /zh-hant/knowledge/knowledge-information-understanding-analysis/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge 紀錄：知識、資訊與理解：KL02 分析"
 comments: false

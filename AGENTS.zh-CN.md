@@ -29,7 +29,7 @@ Root 只保留 Jekyll 或 agent 所需的操作和網站檔案，包括 `AGENTS.
 title: "清楚的紀錄標題"
 date: YYYY-MM-DD 09:00:00 +0800
 permalink: /<record-route>/<slug>/
-categories: [<record-type>]
+categories: [<category-group>, <subcategory>]
 tags: [learning, <specific-topic>, <specific-topic>]
 description: "一句清楚說明這份紀錄有甚麼價值。"
 comments: false
@@ -42,7 +42,8 @@ record_type: <record-type>
 
 中文對應檔使用 `language: zh-Hant` 和 `/zh-hant/<record-route>/<slug>/` permalink。英文與中文 post 必須共享 `date`、`categories`、`tags`、`translation_key` 和 `record_type`。
 
-- `categories` 必須剛好是 `[<record-type>]`，並且要與 post 的 record-type 資料夾及 `record_type` 相符。
+- 使用路由表中指定的 `categories` 陣列。Category 是兩層的 Jekyll 導航結構，而不是 record type：第一個值是群組，第二個值是子 category。只有根層的群組使用一個值（例如 `[goals]` 或 `[reviews]`）。
+- Chirpy 只會把前兩層 category 顯示為父 category 和子 category。不可加入第三層；任何更深的分類使用具體的 tag。Post 的資料夾和 `record_type` 仍必須互相符合，即使它們與 category 名稱不同。
 - 使用 2 至 6 個具體、全小寫、kebab-case 的 tag。Category 是穩定的導航；tag 是較窄的主題篩選。不可用日期、語言，亦不可把標題每個字都加上 tag。
 - 只有目錄真的有幫助才設 `toc: true`；只有包含 Mermaid 圖表才設 `mermaid: true`。
 - 使用明確 permalink，並以 permalink 連結 post；不可再用相對 `.md` 路徑。圖表使用 site-root 路徑，例如 `/Diagrams/example.svg`。
@@ -52,19 +53,20 @@ record_type: <record-type>
 | 紀錄 | Post 資料夾 | Categories | Permalink 路由 |
 |---|---|---|---|
 | 目標或成果 | `_posts/goals/` | `[goals]` | `/goals/` |
-| 學習者 profile 或現況 | `_posts/learner-context/` | `[learner-context]` | `/context/` |
-| 可重用的理解 | `_posts/knowledge/` | `[knowledge]` | `/knowledge/` |
-| 想法擷取 | `_posts/ideas/` | `[ideas]` | `/ideas/` |
-| 評析前的學習者推理 | `_posts/thinking/` | `[thinking]` | `/thinking/` |
-| 反思 | `_posts/reflections/` | `[reflections]` | `/reflections/` |
-| Drill 規格 | `_posts/drills/` | `[drills]` | `/practice/drills/` |
-| 未編輯的學習者嘗試 | `_posts/attempts/` | `[attempts]` | `/practice/attempts/` |
-| 按 rubric 作出的回饋 | `_posts/feedback/` | `[feedback]` | `/practice/feedback/` |
-| 表現趨勢 | `_posts/scorecards/` | `[scorecards]` | `/practice/scorecards/` |
-| 來源紀錄或引用 | `_posts/sources/` | `[sources]` | `/sources/` |
-| 按時間排序的會談紀錄 | `_posts/logs/` | `[logs]` | `/log/` |
+| 學習者 profile 或現況 | `_posts/learner-context/` | `[docs, learner-context]` | `/context/` |
+| 可重用的理解 | `_posts/knowledge/` | `[notes, distilled]` | `/knowledge/` |
+| 想法擷取 | `_posts/ideas/` | `[notes, ideas]` | `/ideas/` |
+| 評析前的學習者推理 | `_posts/thinking/` | `[notes, thinking]` | `/thinking/` |
+| 反思 | `_posts/reflections/` | `[notes, reflections]` | `/reflections/` |
+| Drill 規格 | `_posts/drills/` | `[practice, active-drills]` | `/practice/drills/` |
+| 未編輯的學習者嘗試 | `_posts/attempts/` | `[practice, attempts]` | `/practice/attempts/` |
+| 按 rubric 作出的回饋 | `_posts/feedback/` | `[practice, feedback]` | `/practice/feedback/` |
+| 表現趨勢 | `_posts/scorecards/` | `[practice, scorecards]` | `/practice/scorecards/` |
+| 來源紀錄或引用 | `_posts/sources/` | `[sources, references]` | `/sources/` |
+| 按時間排序的會談紀錄 | `_posts/logs/` | `[log, daily]` | `/log/` |
+| 有意保留的重要原始對話或追蹤紀錄 | `_posts/raw-history/` | `[log, raw-history]` | `/log/raw-history/` |
 | 每日、每週或每月綜合 | `_posts/reviews/` | `[reviews]` | `/reviews/` |
-| 可重用的紀錄 template | `_posts/templates/` | `[templates]` | `/templates/` |
+| 可重用的紀錄 template | `_posts/templates/` | `[docs, templates]` | `/templates/` |
 
 所有 post 都是網站內容。不可加入憑證、私密 token、敏感個人資料、受版權保護的來源逐字稿，或未獲學習者批准公開的內容。
 

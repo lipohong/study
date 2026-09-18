@@ -2,7 +2,7 @@
 title: "與學習條件相關的實驗證據"
 date: 2026-09-10 09:00:00 +0800
 permalink: /zh-hant/sources/study-conditions-experimental-evidence/
-categories: [sources]
+categories: [sources, references]
 tags: [learning, references, source]
 description: "sources 紀錄：與學習條件相關的實驗證據"
 comments: false

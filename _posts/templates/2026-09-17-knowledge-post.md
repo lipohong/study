@@ -1,8 +1,8 @@
 ---
-title: "<Knowledge note title>"
+title: "(Knowledge note title)"
 date: 2026-09-17 09:00:00 +0800
 permalink: /templates/knowledge-post/
-categories: [templates]
+categories: [docs, templates]
 tags: [learning, template, workspace]
 description: "templates record: <Knowledge note title>."
 comments: false
@@ -21,7 +21,7 @@ record_type: templates
 title: "<Clear record title>"
 date: YYYY-MM-DD 09:00:00 +0800
 permalink: /knowledge/<slug>/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, <specific-topic>, <specific-topic>]
 description: "<One clear sentence explaining the record's value.>"
 comments: false

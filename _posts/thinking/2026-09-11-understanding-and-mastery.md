@@ -2,7 +2,7 @@
 title: "Thinking: Understanding, mastery, and levels of mastery"
 date: 2026-09-11 09:00:00 +0800
 permalink: /thinking/understanding-and-mastery/
-categories: [thinking]
+categories: [notes, thinking]
 tags: [learning, learner-reasoning, capture]
 description: "thinking record: Thinking: Understanding, mastery, and levels of mastery."
 comments: false

@@ -2,7 +2,7 @@
 title: "認知支援與理解能力"
 date: 2026-09-17 09:00:00 +0800
 permalink: /zh-hant/knowledge/cognitive-supports-versus-understanding/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge 紀錄：認知支援與理解能力"
 comments: false

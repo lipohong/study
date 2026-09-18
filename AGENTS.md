@@ -27,7 +27,7 @@ Every post must begin with YAML front matter containing:
 title: "Clear record title"
 date: YYYY-MM-DD 09:00:00 +0800
 permalink: /<record-route>/<slug>/
-categories: [<record-type>]
+categories: [<category-group>, <subcategory>]
 tags: [learning, <specific-topic>, <specific-topic>]
 description: "One clear sentence explaining the record's value."
 comments: false
@@ -40,7 +40,8 @@ record_type: <record-type>
 
 Use `language: zh-Hant` and a `/zh-hant/<record-route>/<slug>/` permalink for the Chinese counterpart. English and Chinese posts must share the same `date`, `categories`, `tags`, `translation_key`, and `record_type`.
 
-- Use exactly `[<record-type>]` for `categories`. The category must match the post's record-type folder and `record_type`.
+- Use the exact category array in the routing table. Categories are a two-level Jekyll navigation hierarchy, not the record type: the first value is the group and the second is the subcategory. A root-only group uses one value (for example, `[goals]` or `[reviews]`).
+- Chirpy renders only the first two category levels as a parent and subcategory. Do not add a third category level; use a narrow tag for any deeper distinction. The post's folder and `record_type` must still match each other, even when they differ from the category names.
 - Use 2-6 concrete, lower-case kebab-case tags. Categories are stable navigation; tags are narrow topical filters. Do not tag dates, languages, or every word in a title.
 - Set `toc: true` only where a table of contents helps; set `mermaid: true` only for a Mermaid diagram.
 - Use explicit permalinks and link between posts by permalink, never by a relative `.md` path. Link a diagram with a site-root path such as `/Diagrams/example.svg`.
@@ -50,19 +51,20 @@ Use `language: zh-Hant` and a `/zh-hant/<record-route>/<slug>/` permalink for th
 | Record | Post folder | Categories | Permalink route |
 |---|---|---|---|
 | Goal or outcome | `_posts/goals/` | `[goals]` | `/goals/` |
-| Learner profile or current state | `_posts/learner-context/` | `[learner-context]` | `/context/` |
-| Reusable understanding | `_posts/knowledge/` | `[knowledge]` | `/knowledge/` |
-| Idea capture | `_posts/ideas/` | `[ideas]` | `/ideas/` |
-| Learner reasoning before critique | `_posts/thinking/` | `[thinking]` | `/thinking/` |
-| Reflection | `_posts/reflections/` | `[reflections]` | `/reflections/` |
-| Drill specification | `_posts/drills/` | `[drills]` | `/practice/drills/` |
-| Unedited learner attempt | `_posts/attempts/` | `[attempts]` | `/practice/attempts/` |
-| Rubric-based feedback | `_posts/feedback/` | `[feedback]` | `/practice/feedback/` |
-| Performance trend | `_posts/scorecards/` | `[scorecards]` | `/practice/scorecards/` |
-| Source record or citation | `_posts/sources/` | `[sources]` | `/sources/` |
-| Chronological session record | `_posts/logs/` | `[logs]` | `/log/` |
+| Learner profile or current state | `_posts/learner-context/` | `[docs, learner-context]` | `/context/` |
+| Reusable understanding | `_posts/knowledge/` | `[notes, distilled]` | `/knowledge/` |
+| Idea capture | `_posts/ideas/` | `[notes, ideas]` | `/ideas/` |
+| Learner reasoning before critique | `_posts/thinking/` | `[notes, thinking]` | `/thinking/` |
+| Reflection | `_posts/reflections/` | `[notes, reflections]` | `/reflections/` |
+| Drill specification | `_posts/drills/` | `[practice, active-drills]` | `/practice/drills/` |
+| Unedited learner attempt | `_posts/attempts/` | `[practice, attempts]` | `/practice/attempts/` |
+| Rubric-based feedback | `_posts/feedback/` | `[practice, feedback]` | `/practice/feedback/` |
+| Performance trend | `_posts/scorecards/` | `[practice, scorecards]` | `/practice/scorecards/` |
+| Source record or citation | `_posts/sources/` | `[sources, references]` | `/sources/` |
+| Chronological session record | `_posts/logs/` | `[log, daily]` | `/log/` |
+| Important retained raw conversation or trace | `_posts/raw-history/` | `[log, raw-history]` | `/log/raw-history/` |
 | Daily, weekly, or monthly synthesis | `_posts/reviews/` | `[reviews]` | `/reviews/` |
-| Reusable record template | `_posts/templates/` | `[templates]` | `/templates/` |
+| Reusable record template | `_posts/templates/` | `[docs, templates]` | `/templates/` |
 
 All posts are website content. Do not add credentials, private tokens, sensitive personal details, copyrighted source transcripts, or material the learner has not approved for publication.
 

@@ -2,7 +2,7 @@
 title: "Thinking: What counts as understanding?"
 date: 2026-09-10 09:00:00 +0800
 permalink: /thinking/understanding/
-categories: [thinking]
+categories: [notes, thinking]
 tags: [learning, learner-reasoning, capture]
 description: "thinking record: Thinking: What counts as understanding?."
 comments: false

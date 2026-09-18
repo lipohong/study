@@ -2,7 +2,7 @@
 title: "Knowledge, Information, and Understanding: KL02 Analysis"
 date: 2026-09-17 09:00:00 +0800
 permalink: /knowledge/knowledge-information-understanding-analysis/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge record: Knowledge, Information, and Understanding: KL02 Analysis."
 comments: false

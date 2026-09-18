@@ -2,7 +2,7 @@
 title: "Scope correction: knowledge rather than understanding"
 date: 2026-09-15 09:00:00 +0800
 permalink: /thinking/knowledge-scope-clarification/
-categories: [thinking]
+categories: [notes, thinking]
 tags: [learning, learner-reasoning, capture]
 description: "thinking record: Scope correction: knowledge rather than understanding."
 comments: false

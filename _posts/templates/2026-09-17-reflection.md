@@ -2,7 +2,7 @@
 title: "Reflection: <session / attempt>"
 date: 2026-09-17 09:00:00 +0800
 permalink: /templates/reflection/
-categories: [templates]
+categories: [docs, templates]
 tags: [learning, template, workspace]
 description: "templates record: Reflection: <session / attempt>."
 comments: false

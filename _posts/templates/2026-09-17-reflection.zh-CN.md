@@ -2,7 +2,7 @@
 title: "反思：<階段／嘗試>"
 date: 2026-09-17 09:00:00 +0800
 permalink: /zh-hant/templates/reflection/
-categories: [templates]
+categories: [docs, templates]
 tags: [learning, template, workspace]
 description: "templates 紀錄：反思：<階段／嘗試>"
 comments: false

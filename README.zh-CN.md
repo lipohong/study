@@ -12,18 +12,17 @@
 
 ## 內容資料庫
 
-所有學習 Markdown 都存於 `_posts/<record-type>/`。每篇 post 只有一個頂層 category，用來表示其角色並驅動 Jekyll 的 category view。
+所有學習 Markdown 都存於 `_posts/<record-type>/`。Post 資料夾和 `record_type` 用來識別紀錄種類；`categories` 則提供 Jekyll Categories 頁面所顯示的精簡兩層導航。第一個 category 是群組，第二個是其子 category。不可加入第三層；更細的區分使用 tag。
 
-| Category | 內容 |
-|---|---|
-| `goals` | 目前目標、長期目標和拆解 |
-| `learner-context` | 學習者 profile 和目前學習狀態 |
-| `knowledge` | 可重用概念、模型、解釋和圖表 |
-| `ideas`、`thinking`、`reflections` | 擷取、學習者推理和反思 |
-| `drills`、`attempts`、`feedback`、`scorecards` | 刻意練習證據 |
-| `sources` | 來源紀錄和引用筆記 |
-| `logs`、`reviews` | 按時間排序的會談歷史和綜合 |
-| `templates` | 可重用 post 結構 |
+| Category 群組 | 子 categories | 紀錄種類／資料夾 |
+|---|---|---|
+| `goals` | — | 目標和成果：`_posts/goals/` |
+| `notes` | `ideas`、`thinking`、`reflections`、`distilled` | 擷取、學習者推理、反思和可重用知識：`_posts/ideas/`、`_posts/thinking/`、`_posts/reflections/`、`_posts/knowledge/` |
+| `practice` | `active-drills`、`attempts`、`feedback`、`scorecards` | 刻意練習規格和證據：`_posts/drills/`、`_posts/attempts/`、`_posts/feedback/`、`_posts/scorecards/` |
+| `docs` | `learner-context`、`templates` | 學習者 profile／現況和可重用紀錄結構：`_posts/learner-context/`、`_posts/templates/` |
+| `sources` | `references` | 來源紀錄、引用筆記和已批准的參考材料：`_posts/sources/` |
+| `log` | `daily`、`raw-history` | 每日會談紀錄和有意保留的原始追蹤紀錄：`_posts/logs/`、`_posts/raw-history/` |
+| `reviews` | — | 每日、每週或每月綜合：`_posts/reviews/` |
 
 每篇英文權威 post 都有同資料夾內的中文對應檔：
 
@@ -32,7 +31,7 @@ _posts/knowledge/2026-09-17-topic.md
 _posts/knowledge/2026-09-17-topic.zh-CN.md
 ```
 
-Post 使用明確的英文和中文 permalink、穩定的 category，以及較窄的主題 tag。以 permalink 連結 post，以 `/Diagrams/` 連結視覺資產；不可再使用舊工作區資料夾的相對連結。
+Post 使用明確的英文和中文 permalink、路由表指定的 category 階層，以及較窄的主題 tag。以 permalink 連結 post，以 `/Diagrams/` 連結視覺資產；不可再使用舊工作區資料夾的相對連結。
 
 ## 建立紀錄
 

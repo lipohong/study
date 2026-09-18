@@ -2,7 +2,7 @@
 title: "Learner Profile"
 date: 2026-09-17 09:00:00 +0800
 permalink: /context/learner-profile/
-categories: [learner-context]
+categories: [docs, learner-context]
 tags: [learning, learner-context, learning-state]
 description: "learner-context record: Learner Profile."
 comments: false

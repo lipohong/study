@@ -2,7 +2,7 @@
 title: "Learning concept map explained in blocks: pick it up with examples anytime"
 date: 2026-09-17 09:00:00 +0800
 permalink: /knowledge/learning-concept-map-explained/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge record: Learning concept map explained in blocks: pick it up with examples anytime."
 comments: false

@@ -2,7 +2,7 @@
 title: "反思：關於理解的初次會話"
 date: 2026-09-10 09:00:00 +0800
 permalink: /zh-hant/reflections/understanding-session/
-categories: [reflections]
+categories: [notes, reflections]
 tags: [learning, reflection, deliberate-practice]
 description: "reflections 紀錄：反思：關於理解的初次會話"
 comments: false

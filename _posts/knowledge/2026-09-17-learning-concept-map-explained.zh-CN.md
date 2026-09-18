@@ -2,7 +2,7 @@
 title: "學習概念圖逐塊解說：可隨時用例子重新掌握"
 date: 2026-09-17 09:00:00 +0800
 permalink: /zh-hant/knowledge/learning-concept-map-explained/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge 紀錄：學習概念圖逐塊解說：可隨時用例子重新掌握"
 comments: false

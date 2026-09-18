@@ -2,7 +2,7 @@
 title: "能力與理解能力"
 date: 2026-09-17 09:00:00 +0800
 permalink: /zh-hant/knowledge/ability-and-understanding-ability/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge 紀錄：能力與理解能力"
 comments: false

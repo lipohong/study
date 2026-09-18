@@ -2,7 +2,7 @@
 title: "來源記錄：KL02 知識與資訊字幕"
 date: 2026-09-16 09:00:00 +0800
 permalink: /zh-hant/sources/kl02-knowledge-information-subtitle/
-categories: [sources]
+categories: [sources, references]
 tags: [learning, references, source]
 description: "sources 紀錄：來源記錄：KL02 知識與資訊字幕"
 comments: false

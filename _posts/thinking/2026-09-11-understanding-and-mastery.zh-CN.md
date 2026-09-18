@@ -2,7 +2,7 @@
 title: "思考：理解、掌握與掌握層次"
 date: 2026-09-11 09:00:00 +0800
 permalink: /zh-hant/thinking/understanding-and-mastery/
-categories: [thinking]
+categories: [notes, thinking]
 tags: [learning, learner-reasoning, capture]
 description: "thinking 紀錄：思考：理解、掌握與掌握層次"
 comments: false

@@ -1,8 +1,8 @@
 ---
-title: "<知識筆記標題>"
+title: "(知識筆記標題)"
 date: 2026-09-17 09:00:00 +0800
 permalink: /zh-hant/templates/knowledge-post/
-categories: [templates]
+categories: [docs, templates]
 tags: [learning, template, workspace]
 description: "templates 紀錄：<知識筆記標題>"
 comments: false
@@ -23,7 +23,7 @@ record_type: templates
 title: "<清楚的紀錄標題>"
 date: YYYY-MM-DD 09:00:00 +0800
 permalink: /zh-hant/knowledge/<slug>/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, <specific-topic>, <specific-topic>]
 description: "<一句清楚說明這份紀錄有甚麼價值。>"
 comments: false

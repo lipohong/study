@@ -2,7 +2,7 @@
 title: "已被取代的摘要——對理解的模型"
 date: 2026-09-15 09:00:00 +0800
 permalink: /zh-hant/knowledge/current-understanding-summary/
-categories: [knowledge]
+categories: [notes, distilled]
 tags: [learning, knowledge, conceptual-model]
 description: "knowledge 紀錄：已被取代的摘要——對理解的模型"
 comments: false

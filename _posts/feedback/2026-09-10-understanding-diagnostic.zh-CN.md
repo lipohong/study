@@ -2,7 +2,7 @@
 title: "反馈：关于理解的初步诊断"
 date: 2026-09-10 09:00:00 +0800
 permalink: /zh-hant/practice/feedback/understanding-diagnostic/
-categories: [feedback]
+categories: [practice, feedback]
 tags: [learning, rubric, feedback]
 description: "feedback 紀錄：反馈：关于理解的初步诊断"
 comments: false
