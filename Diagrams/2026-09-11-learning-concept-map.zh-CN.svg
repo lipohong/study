@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1110" viewBox="0 0 1600 1110" role="img" aria-labelledby="title desc">
+  <title id="title">學習概念圖：認知支援、理解與掌握</title>
+  <desc id="desc">一張概念圖，顯示認知支援、知識與概念模型、刻意練習、理解能力、掌握層次及評估證據之間的關係。英文對應檔為權威版本。</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .title { font: 700 38px 'Noto Sans CJK TC', 'Noto Sans', sans-serif; fill: #0f172a; }
+      .subtitle { font: 400 19px 'Noto Sans CJK TC', 'Noto Sans', sans-serif; fill: #475569; }
+      .h { font: 700 23px 'Noto Sans CJK TC', 'Noto Sans', sans-serif; fill: #0f172a; }
+      .t { font: 400 18px 'Noto Sans CJK TC', 'Noto Sans', sans-serif; fill: #1e293b; }
+      .small { font: 400 16px 'Noto Sans CJK TC', 'Noto Sans', sans-serif; fill: #334155; }
+      .mini { font: 400 14px 'Noto Sans CJK TC', 'Noto Sans', sans-serif; fill: #475569; }
+      .line { stroke: #64748b; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+      .line2 { stroke: #0f766e; stroke-width: 3.5; fill: none; marker-end: url(#arrowTeal); }
+      .dash { stroke: #7c3aed; stroke-width: 2.5; stroke-dasharray: 8 7; fill: none; marker-end: url(#arrowPurple); }
+      .box { stroke-width: 2.2; rx: 18; }
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#64748b"/></marker>
+    <marker id="arrowTeal" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f766e"/></marker>
+    <marker id="arrowPurple" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#7c3aed"/></marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1110"/>
+  <text x="70" y="65" class="title">目前學習主題：概念關係圖</text>
+  <text x="70" y="98" class="subtitle">認知支援 → 理解 → 掌握；由刻意練習與證據連接</text>
+
+  <rect class="box" x="70" y="150" width="405" height="205" fill="#e0f2fe" stroke="#0284c7"/>
+  <text x="100" y="190" class="h">認知支援</text>
+  <text x="100" y="221" class="t">支援思考的認知資源</text>
+  <text x="105" y="258" class="small">• 注意力：專注與抗干擾</text>
+  <text x="105" y="288" class="small">• 工作記憶：暫存及操作資訊</text>
+  <text x="105" y="318" class="small">• 自我調節：計劃、監控及轉換策略</text>
+  <text x="100" y="345" class="mini">支援表現；本身不等於理解</text>
+
+  <rect class="box" x="585" y="150" width="430" height="205" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="615" y="190" class="h">知識 + 概念模型</text>
+  <text x="615" y="221" class="t">知識 + 概念模型／心理表徵</text>
+  <text x="620" y="258" class="small">• 事實、詞彙、例子</text>
+  <text x="620" y="288" class="small">• 關係、機制、條件</text>
+  <text x="620" y="318" class="small">• 辨識模式及預期錯誤</text>
+  <text x="615" y="345" class="mini">模型薄弱 → 遺漏條件或作出錯誤推論</text>
+
+  <rect class="box" x="1125" y="150" width="405" height="205" fill="#f3e8ff" stroke="#9333ea"/>
+  <text x="1155" y="190" class="h">刻意練習</text>
+  <text x="1155" y="221" class="t">有目的、有針對性的練習</text>
+  <text x="1160" y="258" class="small">具體目標 → 專注嘗試</text>
+  <text x="1160" y="288" class="small">回饋 → 錯誤診斷</text>
+  <text x="1160" y="318" class="small">修正 → 下一個狹窄練習</text>
+  <text x="1155" y="345" class="mini">建立模型，也提升可靠性</text>
+
+  <rect class="box" x="460" y="440" width="680" height="240" fill="#ccfbf1" stroke="#0f766e" stroke-width="3"/>
+  <text x="510" y="490" class="h">理解能力</text>
+  <text x="510" y="522" class="t">用概念模型推理；不只是回憶或流暢覆述</text>
+  <text x="525" y="565" class="t">1. 解釋：關係和機制</text>
+  <text x="525" y="598" class="t">2. 預測：條件改變時</text>
+  <text x="525" y="631" class="t">3. 應用／遷移：到新情境</text>
+  <text x="810" y="565" class="t">4. 診斷：找出錯誤</text>
+  <text x="810" y="598" class="t">5. 修正：依反證改變假設</text>
+  <text x="510" y="656" class="mini">問題：我是否有一個可用的模型？</text>
+
+  <path class="line" d="M272 355 C300 415, 420 440, 525 440"/>
+  <text x="325" y="414" class="mini">促成／限制</text>
+  <path class="line2" d="M800 355 L800 430"/>
+  <text x="818" y="404" class="mini">提供模型</text>
+  <path class="dash" d="M1327 355 C1300 420, 1160 430, 1080 440"/>
+  <text x="1173" y="414" class="mini">建立及測試</text>
+
+  <rect class="box" x="370" y="770" width="860" height="180" fill="#ffedd5" stroke="#ea580c" stroke-width="3"/>
+  <text x="420" y="818" class="h">掌握</text>
+  <text x="420" y="850" class="t">在界定的任務條件下，可靠、獨立並足夠靈活地表現</text>
+  <text x="420" y="883" class="small">理解 + 練習 + 程序流暢度 + 回饋 + 修正</text>
+  <text x="420" y="918" class="mini">問題：我能否在所需條件下穩定做到？</text>
+  <path class="line2" d="M800 680 L800 758"/>
+  <text x="816" y="728" class="mini">支援表現</text>
+
+  <text x="70" y="1010" class="h">掌握層次</text>
+  <g>
+    <rect class="box" x="70" y="1030" width="220" height="60" fill="#fff7ed" stroke="#fb923c"/>
+    <text x="90" y="1057" class="small">1 辨認</text><text x="90" y="1080" class="mini">認得概念</text>
+    <rect class="box" x="315" y="1030" width="220" height="60" fill="#fff7ed" stroke="#fb923c"/>
+    <text x="335" y="1057" class="small">2 解釋</text><text x="335" y="1080" class="mini">說明關係</text>
+    <rect class="box" x="560" y="1030" width="220" height="60" fill="#fff7ed" stroke="#fb923c"/>
+    <text x="580" y="1057" class="small">3 提示下應用</text><text x="580" y="1080" class="mini">需要引導</text>
+    <rect class="box" x="805" y="1030" width="220" height="60" fill="#fff7ed" stroke="#fb923c"/>
+    <text x="825" y="1057" class="small">4 獨立運用</text><text x="825" y="1080" class="mini">獨立完成</text>
+    <rect class="box" x="1050" y="1030" width="220" height="60" fill="#fff7ed" stroke="#fb923c"/>
+    <text x="1070" y="1057" class="small">5 遷移</text><text x="1070" y="1080" class="mini">靈活運用</text>
+    <rect class="box" x="1295" y="1030" width="235" height="60" fill="#fff7ed" stroke="#fb923c"/>
+    <text x="1315" y="1057" class="small">6 創造／教導</text><text x="1315" y="1080" class="mini">產出及教學</text>
+  </g>
+
+  <rect class="box" x="1245" y="470" width="285" height="460" fill="#f1f5f9" stroke="#64748b"/>
+  <text x="1270" y="510" class="h">證據</text>
+  <text x="1270" y="540" class="t">評估證據</text>
+  <text x="1275" y="586" class="small">• 準確度</text><text x="1275" y="610" class="mini">做得對嗎？</text>
+  <text x="1275" y="655" class="small">• 穩定性</text><text x="1275" y="679" class="mini">能重複做到嗎？</text>
+  <text x="1275" y="724" class="small">• 獨立性</text><text x="1275" y="748" class="mini">需要提示或筆記嗎？</text>
+  <text x="1275" y="793" class="small">• 遷移</text><text x="1275" y="817" class="mini">情境變了仍可用嗎？</text>
+  <text x="1275" y="862" class="small">• 反思</text><text x="1275" y="886" class="mini">能發現及修正錯誤嗎？</text>
+  <path class="line" d="M1230 858 C1240 858, 1240 790, 1245 790"/>
+
+  <text x="70" y="735" class="mini">學習迴圈：目標 → 診斷 → 狹窄練習 → 嘗試 → 回饋 → 反思 → 下一個練習 → 複習</text>
+</svg>

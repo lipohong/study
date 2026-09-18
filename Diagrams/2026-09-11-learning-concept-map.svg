@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1110" viewBox="0 0 1600 1110" role="img" aria-labelledby="title desc">
+  <title id="title">Learning concept map: cognitive supports, understanding, and mastery</title>
+  <desc id="desc">A concept map showing how cognitive supports, knowledge and conceptual models, deliberate practice, understanding ability, mastery levels, and evidence criteria connect.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .title { font: 700 38px 'Noto Sans CJK TC', 'Noto Sans', sans-serif; fill: #0f172a; }
+      .subtitle { font: 400 19px 'Noto Sans CJK TC', 'Noto Sans', sans-serif; fill: #475569; }
+      .h { font: 700 23px 'Noto Sans CJK TC', 'Noto Sans', sans-serif; fill: #0f172a; }
+      .t { font: 400 18px 'Noto Sans CJK TC', 'Noto Sans', sans-serif; fill: #1e293b; }
+      .small { font: 400 16px 'Noto Sans CJK TC', 'Noto Sans', sans-serif; fill: #334155; }
+      .mini { font: 400 14px 'Noto Sans CJK TC', 'Noto Sans', sans-serif; fill: #475569; }
+      .line { stroke: #64748b; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+      .line2 { stroke: #0f766e; stroke-width: 3.5; fill: none; marker-end: url(#arrowTeal); }
+      .dash { stroke: #7c3aed; stroke-width: 2.5; stroke-dasharray: 8 7; fill: none; marker-end: url(#arrowPurple); }
+      .box { stroke-width: 2.2; rx: 18; }
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#64748b"/></marker>
+    <marker id="arrowTeal" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f766e"/></marker>
+    <marker id="arrowPurple" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#7c3aed"/></marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1110"/>
+  <text x="70" y="65" class="title">Current Learning Topic: Concept Map</text>
+  <text x="70" y="98" class="subtitle">Cognitive Supports → Understanding → Mastery, connected by Deliberate Practice and Evidence</text>
+
+  <!-- Top inputs -->
+  <rect class="box" x="70" y="150" width="405" height="205" fill="#e0f2fe" stroke="#0284c7"/>
+  <text x="100" y="190" class="h">Cognitive Supports</text>
+  <text x="100" y="221" class="t">Cognitive resources that support thinking</text>
+  <text x="105" y="258" class="small">• Attention: focus and resistance to distraction</text>
+  <text x="105" y="288" class="small">• Working Memory: hold and work with information</text>
+  <text x="105" y="318" class="small">• Self-regulation: plan, monitor, and switch strategies</text>
+  <text x="100" y="345" class="mini">Supports performance; is not understanding itself</text>
+
+  <rect class="box" x="585" y="150" width="430" height="205" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="615" y="190" class="h">Knowledge + Conceptual Model</text>
+  <text x="615" y="221" class="t">Knowledge + Conceptual Model / Mental Representation</text>
+  <text x="620" y="258" class="small">• facts, vocabulary, examples</text>
+  <text x="620" y="288" class="small">• relationships, mechanisms, conditions</text>
+  <text x="620" y="318" class="small">• recognize patterns and anticipate errors</text>
+  <text x="615" y="345" class="mini">Weak model → missed conditions or faulty inferences</text>
+
+  <rect class="box" x="1125" y="150" width="405" height="205" fill="#f3e8ff" stroke="#9333ea"/>
+  <text x="1155" y="190" class="h">Deliberate Practice</text>
+  <text x="1155" y="221" class="t">Deliberate / purposeful practice</text>
+  <text x="1160" y="258" class="small">specific goal → focused attempt</text>
+  <text x="1160" y="288" class="small">feedback → error diagnosis</text>
+  <text x="1160" y="318" class="small">correction → next narrow drill</text>
+  <text x="1155" y="345" class="mini">Builds models and improves reliability</text>
+
+  <!-- central understanding -->
+  <rect class="box" x="460" y="440" width="680" height="240" fill="#ccfbf1" stroke="#0f766e" stroke-width="3"/>
+  <text x="510" y="490" class="h">Understanding Ability</text>
+  <text x="510" y="522" class="t">Use a conceptual model to reason; more than recall or fluent paraphrase</text>
+  <text x="525" y="565" class="t">1. Explain: relations and mechanisms</text>
+  <text x="525" y="598" class="t">2. Predict: when conditions change</text>
+  <text x="525" y="631" class="t">3. Apply / Transfer: to a new context</text>
+  <text x="810" y="565" class="t">4. Diagnose: identify errors</text>
+  <text x="810" y="598" class="t">5. Revise: assumptions from counterevidence</text>
+  <text x="510" y="656" class="mini">Question: Do I have a usable model?</text>
+
+  <!-- arrows top to central -->
+  <path class="line" d="M272 355 C300 415, 420 440, 525 440"/>
+  <text x="325" y="414" class="mini">enables / constrains</text>
+  <path class="line2" d="M800 355 L800 430"/>
+  <text x="818" y="404" class="mini">provides model</text>
+  <path class="dash" d="M1327 355 C1300 420, 1160 430, 1080 440"/>
+  <text x="1173" y="414" class="mini">builds &amp; tests</text>
+
+  <!-- mastery -->
+  <rect class="box" x="370" y="770" width="860" height="180" fill="#ffedd5" stroke="#ea580c" stroke-width="3"/>
+  <text x="420" y="818" class="h">Mastery</text>
+  <text x="420" y="850" class="t">Reliable, independent, and sufficiently flexible performance under defined conditions</text>
+  <text x="420" y="883" class="small">理解 + 練習 + procedural fluency + feedback + correction</text>
+  <text x="420" y="918" class="mini">Question: Can I do this consistently under the required conditions?</text>
+  <path class="line2" d="M800 680 L800 758"/>
+  <text x="816" y="728" class="mini">supports performance</text>
+
+  <!-- levels -->
+  <text x="70" y="1010" class="h">Mastery Levels</text>
+  <g>
+    <rect class="box" x="70" y="1030" width="220" height="60" fill="#fff7ed" stroke="#fb923c"/>
+    <text x="90" y="1057" class="small">1 Recognition</text><text x="90" y="1080" class="mini">Recognize</text>
+    <rect class="box" x="315" y="1030" width="220" height="60" fill="#fff7ed" stroke="#fb923c"/>
+    <text x="335" y="1057" class="small">2 Explanation</text><text x="335" y="1080" class="mini">Explain</text>
+    <rect class="box" x="560" y="1030" width="220" height="60" fill="#fff7ed" stroke="#fb923c"/>
+    <text x="580" y="1057" class="small">3 Guided Application</text><text x="580" y="1080" class="mini">With guidance</text>
+    <rect class="box" x="805" y="1030" width="220" height="60" fill="#fff7ed" stroke="#fb923c"/>
+    <text x="825" y="1057" class="small">4 Independent</text><text x="825" y="1080" class="mini">Independent</text>
+    <rect class="box" x="1050" y="1030" width="220" height="60" fill="#fff7ed" stroke="#fb923c"/>
+    <text x="1070" y="1057" class="small">5 Transfer</text><text x="1070" y="1080" class="mini">Transfer / flexibility</text>
+    <rect class="box" x="1295" y="1030" width="235" height="60" fill="#fff7ed" stroke="#fb923c"/>
+    <text x="1315" y="1057" class="small">6 Create / Teach</text><text x="1315" y="1080" class="mini">Create / teach</text>
+  </g>
+
+  <!-- evidence side panel -->
+  <rect class="box" x="1245" y="470" width="285" height="460" fill="#f1f5f9" stroke="#64748b"/>
+  <text x="1270" y="510" class="h">Evidence</text>
+  <text x="1270" y="540" class="t">Assessment evidence</text>
+  <text x="1275" y="586" class="small">• Accuracy</text><text x="1275" y="610" class="mini">Is it correct?</text>
+  <text x="1275" y="655" class="small">• Stability</text><text x="1275" y="679" class="mini">Can it be repeated?</text>
+  <text x="1275" y="724" class="small">• Independence</text><text x="1275" y="748" class="mini">Does it need prompts or notes?</text>
+  <text x="1275" y="793" class="small">• Transfer</text><text x="1275" y="817" class="mini">Does it work in a changed context?</text>
+  <text x="1275" y="862" class="small">• Reflection</text><text x="1275" y="886" class="mini">Can errors be found and corrected?</text>
+  <path class="line" d="M1230 858 C1240 858, 1240 790, 1245 790"/>
+
+  <!-- footer -->
+  <text x="70" y="735" class="mini">Learning loop: Goal → Diagnose → Narrow Drill → Attempt → Feedback → Reflection → Next Drill → Review</text>
+</svg>

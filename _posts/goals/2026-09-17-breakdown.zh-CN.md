@@ -1,0 +1,70 @@
+---
+title: "目標拆解"
+date: 2026-09-17 09:00:00 +0800
+permalink: /zh-hant/goals/breakdown/
+categories: [goals]
+tags: [learning, goals, planning]
+description: "goals 紀錄：目標拆解"
+comments: false
+toc: true
+language: zh-Hant
+translation_key: goals-breakdown
+record_type: goals
+---
+
+<!-- 此中文譯本對應英文權威 post：[/goals/breakdown/](/goals/breakdown/)。如有差異，以英文版為準。 -->
+
+> **英文版本：** [/goals/breakdown/](/goals/breakdown/)
+
+
+> **中文版說明：** 英文版 [Goal Breakdown](/goals/breakdown/) 是唯一準據來源（canonical source of truth）。
+
+> 把目前目標拆成能產生進度證據的最小序列。
+
+## 進行中目標
+
+建立可用的「理解」：區分記憶與基於模型的推理，找出主張中隱藏的條件，並把框架應用到陌生案例。
+
+## 階段 1：建立目前證據
+
+- [x] 選擇第一個主題：理解的本質。
+- [x] 透過力／質量和供應／需求例子收集初步診斷證據。
+- [x] 在思考筆記中記錄學習者未經編輯的推理。
+- [x] 確認學習者能獨立重寫過度概括的因果主張、說明相關條件，並提供邊界案例。
+- [ ] 透過區分可能效果與必要／充分條件來校準修訂後的主張。
+
+## 階段 2：建立理解模型
+
+- [x] 區分記住一項陳述與在已說明條件下使用關係推理。
+- [x] 指出理解不只是聽起來流暢的解釋。
+- [x] 指出主張可能遺漏相關變數或條件。
+- [ ] 練習工作模型：解釋 → 預測 → 應用／遷移 → 診斷及修訂假設。
+- [ ] 區分認知支援（注意力、工作記憶、自我調節）和理解能力，並解釋它們如何互動。
+- [ ] 測試由模式比對而得的正確預測，與從明確模型得出的正確預測之分別。
+- [ ] 區分理解與精通，並分類辨識、有引導的應用、獨立熟練、遷移和教學／創作所需的證據。
+- [ ] 在不看筆記下完成 [Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/)。
+- [ ] 在不看筆記下完成 [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/)。
+
+## 認知支援與理解能力
+
+- [ ] 解釋 A/B 對比：注意力和記憶支援思考，但本身不證明理解；解釋和遷移展現特定主題的理解，而整體認知能力仍未被量度。
+- [ ] 練習診斷困難主要由缺少知識／模型、認知負荷，或兩者造成。
+
+## 階段 3：刻意練習
+
+- [x] 完成 [Practice Drill: Conditional causal claims](/practice/drills/conditional-claims/)。
+- [x] 在 [Attempt 01: Conditional causal claims](/practice/attempts/conditional-claims-attempt-01/) 儲存未經編輯的作答。
+- [x] 收到針對練習準則的回饋。
+- [ ] 設計一項包含即時和延遲結果量度的小型個人比較。
+- [ ] 在新領域重複（例如健康、經濟、程式設計或工作決策）。
+
+## 階段 4：鞏固
+
+- [ ] 使用原創例子教回一個精簡的理解定義。
+- [ ] 完成一項使用陌生主張的遷移任務。
+- [ ] 僅以高訊號證據更新 [目前學習狀態](/zh-hant/context/learning-state/)。
+- [ ] 在 2026-09-17 或之前建立簡短回顧，並選擇下一個要練習的概念。
+
+## 目前下一個問題
+
+> 重寫「讀書時間越長，成績一定越好」，使它說明相關條件，並且不聲稱比證據可支持的更高確定性。

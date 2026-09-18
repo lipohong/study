@@ -1,0 +1,69 @@
+---
+title: "目前目標"
+date: 2026-09-17 09:00:00 +0800
+permalink: /zh-hant/goals/current-goal/
+categories: [goals]
+tags: [learning, goals, planning]
+description: "goals 紀錄：目前目標"
+comments: false
+toc: true
+language: zh-Hant
+translation_key: goals-current-goal
+record_type: goals
+---
+
+<!-- 此中文譯本對應英文權威 post：[/goals/current-goal/](/goals/current-goal/)。如有差異，以英文版為準。 -->
+
+> **英文版本：** [/goals/current-goal/](/goals/current-goal/)
+
+
+> **中文版說明：** 英文版 [Current Goal](/goals/current-goal/) 是唯一準據來源（canonical source of truth）。
+
+> 只維持**一個主要目標**處於進行中。清晰的目標能讓 LLM 提供具體而非泛泛的指引。
+
+## 目標陳述
+
+**我想要的成果：** 建立可用的理解：如何改善認知支援（注意力、工作記憶和自我調節）及理解能力（解釋、預測、應用、遷移和模型修訂），且不混淆兩者。
+
+## 第一個具體目標
+
+- **技能／主題：** 分析解釋或主張的品質；區分認知支援與理解能力；並區分理解與不同精通層級。
+- **為何現在重要：** 我想主動學習，而非誤把記住的規則、流暢的解釋或強記憶力當作真正的理解。
+- **截至日期可觀察到的表現：** 在下次回顧前，獨立分析三個陌生的日常主張。對每個主張，指出相關條件／變數，重寫任何過度強烈的陳述，說明甚麼證據可展現理解，判斷困難主要是認知支援問題、知識／模型問題或兩者兼有，並把證據分類為辨識、解釋、有引導的應用、獨立熟練、遷移或教學／創作。
+- **截止／回顧日期：** 2026-09-17
+- **我會使用它的真實情境：** 評估我在學習、工作和生活中的學習。
+
+## 起始證據
+
+- **我已經能做到的事：**
+  - 在條件固定時，區分回憶公式與使用公式推理。
+  - 使用簡單因果關係（淨力固定時，`a = F/m`）比較結果。
+  - 指出主張可能遺漏變數和條件，而不是把一個因素當作完整原因。
+- **最近例子／嘗試：** 在討論中，我解釋學習時間只是影響表現的眾多因素之一。
+- **感到困難或混亂之處：** 能夠解釋、預測、應用和真正理解之間的精確界線，仍需在陌生情境中測試。
+- **限制（時間、精力、工具、語言）：** 短小、一次一題的引導式練習；學習者自己的推理可使用粵語，而技術術語可在有用時保留英文。
+
+## 完成定義
+
+我會在符合以下條件時視此目標為達成：
+
+- [ ] 我能在陌生例子中區分記憶、部分理解和穩健理解。
+- [ ] 我能說明因果主張背後的條件和相關變數。
+- [ ] 我能把絕對或過度概括的主張重寫成可測試的條件式陳述。
+- [ ] 我能在改變後的情境中作出預測，並解釋其機制。
+- [ ] 我已完成至少一項具代表性的練習並記錄回饋。
+- [ ] 我已識別下一個挑戰層級或維持／回顧計畫。
+
+## 今天最小的下一步行動
+
+- [ ] 在不看筆記下完成精通層級分類練習：對每個案例，區分理解與精通，說明有證據支持的最高層級，並解釋為何尚不足以支持更高層級。
+
+## 相關檔案
+
+- 學習者脈絡：[學習者檔案](/zh-hant/context/learner-profile/)
+- 目前狀態：[目前學習狀態](/zh-hant/context/learning-state/)
+- 拆解：[目標拆解](/zh-hant/goals/breakdown/)
+- 階段推理：[Thinking: What counts as understanding?](/thinking/understanding/)
+- 第一個練習：[Practice Drill: Conditional causal claims](/practice/drills/conditional-claims/)
+- 相關概念圖：[Learning concept map: from cognitive supports to mastery](/knowledge/learning-concept-map/)
+- 含例子的快速重新進入指南：[Learning concept map explained in blocks: pick it up with examples anytime](/knowledge/learning-concept-map-explained/)
