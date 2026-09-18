@@ -3,8 +3,8 @@ title: "來源記錄：KL02 知識與資訊字幕"
 date: 2026-09-16 09:00:00 +0800
 permalink: /zh-hant/sources/kl02-knowledge-information-subtitle/
 categories: [sources, references]
-tags: [learning, references, source]
-description: "sources 紀錄：來源記錄：KL02 知識與資訊字幕"
+tags: [learning, knowledge, video-analysis]
+description: "一個關於數據、資訊、知識與智慧的使用者提供字幕檔之來源記錄。"
 comments: false
 toc: true
 language: zh-Hant
@@ -16,26 +16,26 @@ record_type: sources
 
 > **英文版本：** [/sources/kl02-knowledge-information-subtitle/](/sources/kl02-knowledge-information-subtitle/)
 
-
-> **中文版本說明：** 英文對應檔 [Source Record: KL02 Knowledge Versus Information Subtitle](/sources/kl02-knowledge-information-subtitle/) 是準則來源（canonical source of truth）；如有歧義，以英文版為準。
-
 - **加入日期：** 2026-09-16
-- **原始檔案：** `C:\\Users\\lipoh\\Downloads\\KL02｜知识≠信息：99%的人都误会了它的本质.srt`
-- **相關截圖：** `C:\\Users\\lipoh\\AppData\\Local\\Temp\\codex-clipboard-b8d6d2d7-5809-4094-8b21-3fd1922273f4.png`
-- **用途：** 使用者提供的材料，用作概念比較；不當作已獨立核實的證據。
+- **來源：** 使用者提供的 `.srt` 字幕檔，於 2026-09-18 直接覆核。
+- **用途：** 作概念與事實批判的材料；字幕本身不是獨立證據。
+- **字幕品質：** 檔案標示字幕由機器生成。在 `00:07:09`、`00:07:17` 及 `00:08:22` 附近，有數個明顯不通順或含糊的標籤。分析按文字內容進行，並在相關之處說明此限制。
 
-## 摘要
+## 由字幕重構的論證
 
-影片把資訊與知識對比：把資訊定義為帶語境的陳述，把知識定義為穩定、可重複使用的規律。它提出以下階梯：
+影片認為學習者把資訊誤當知識。它用建築比喻：孤立資訊像可重用的磚塊，知識則像建築物的結構設計。它把資訊定義為帶有意義與語境的數據或文字連結，能降低單一個案的不確定性。它較狹義地把知識定義為穩定、可重用的關係、規則、函數或算法，能降低相似事物中的不確定性。
 
-`事件 -> 表徵 -> 規則 -> 數據 -> 資訊 -> 知識 -> 智慧`
+它再使用三個論證步驟：
 
-它以煮糖心蛋作持續例子：由烹煮事件，經測量和觀察表，至熱傳導關係和最終的烹煮選擇。
+1. 它提倡把 knowledge points 組織成結構；比喻是把採購物品放進家中不同位置，而非全都堆在倉庫。
+2. 它提出一個 DIKW-style 次序：事件、表徵、規則／形式、數據、資訊、知識與智慧；並說這個次序可由下而上以歸納方式、或由上而下以應用方式處理。
+3. 它以煮蛋說明此次序，最後主張一般學習失敗，是因為人們被傳授原理卻欠缺接觸真實世界現象與應用。
 
-## 注意
+## 需要分開處理的主張
 
-- 字幕中的歷史歸屬和定義，尚未在此 workspace 中獨立核實。
-- 畫面中的時間和溫度是說明性主張，並非適用於所有雞蛋大小、起始溫度和設備的通用食譜。
+- 字幕包含有關 DIKW、Russell L. Ackoff 和 David Williams 的歷史歸屬。這些是事實主張，不只是定義，必須另行核對。
+- 關於 *Homo sapiens* 的遷徙、尼安德特人、企業家、英語學習和雞蛋溫度的例子，是說明或實證主張；它們本身不能證明知識的一般定義。
+- 字幕中的煮蛋程序由高於 95 C 的滾水，轉成不超過 65 C 的水煮四分三十秒，卻沒有交代條件為何改變。
 
 ## 衍生筆記
 
