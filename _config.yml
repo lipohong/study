@@ -38,6 +38,7 @@ social:
   # email: stanlipohong@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://study.stanli.website
     # - https://x.com/stanlipohong # change to your Twitter homepage
     # - https://github.com/lipohong # change to your GitHub homepage
     # Uncomment below to add more social links
