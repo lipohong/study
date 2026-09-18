@@ -7,7 +7,7 @@
 ## 從這裡開始
 
 1. 閱讀 [AGENTS.md](AGENTS.md)，了解 agent 必須遵守的規則。
-2. 開啟網站的 **Categories**、**Tags** 和 **Archives** 分頁瀏覽資料庫。
+2. 開啟網站的 **Categories** 和**Tags** 分頁瀏覽資料庫。
 3. 開始學習會談前，先閱讀 current-goal 和 learner-context post。
 
 ## 內容資料庫

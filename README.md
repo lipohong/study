@@ -5,7 +5,7 @@ This is a bilingual, Jekyll-first archive for deliberate practice and self-direc
 ## Start here
 
 1. Read [AGENTS.md](AGENTS.md) for the rules agents must follow.
-2. Open the website's **Categories**, **Tags**, and **Archives** tabs to browse the library.
+2. Open the website's **Categories** and **Tags** tabs to browse the library.
 3. Read the current-goal and learner-context posts before starting a learning session.
 
 ## Content library
