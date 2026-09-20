@@ -15,7 +15,7 @@ record_type: knowledge
 > **Chinese version:** [/zh-hant/knowledge/ability-and-understanding-ability/](/zh-hant/knowledge/ability-and-understanding-ability/)
 
 
-> **Status:** Working definition for learning and diagnosis.
+> **Status:** Working definition for learning and diagnosis, extended on 2026-09-20 to include learning ability.
 > 
 > **Created:** 2026-09-10
 
@@ -41,7 +41,21 @@ For a particular concept, evidence of understanding includes the ability to:
 1. **Explain** the relationship or mechanism: why does this happen?
 2. **Predict** a changed case: if this condition changes, what should happen?
 3. **Apply / transfer** the idea to a new but relevant case.
-4. **Diagnose and revise**: identify a false assumption or repair the model when evidence conflicts with it.
+4. **Diagnose, revise, and integrate**: identify a false assumption or repair the model when evidence conflicts with it, then connect the revision with what remains accurate.
+
+## What is learning ability?
+
+**Learning ability** is a task-dependent, meta-level capacity to acquire, revise, connect, and use new models and abilities. It is not one fixed internal engine, and it is not established by fast exposure, confidence, or one correct answer.
+
+It is visible when a learner can:
+
+1. distinguish missing knowledge/model, cognitive overload, and insufficient practice;
+2. choose a strategy that fits the goal and condition;
+3. retrieve and explain the relevant model without notes;
+4. use feedback to locate the earliest failed relation and revise it;
+5. measure whether the strategy improved delayed performance or transfer.
+
+Learning ability improves through repeated cycles of diagnosis, a narrow strategy choice, performance measurement, feedback, and model/strategy revision. See [Six Questions: Knowledge, Learning, Ability, and Learning Ability](/knowledge/six-question-learning-framework/).
 
 ## Relation to memory and attention
 
@@ -73,3 +87,15 @@ For any topic, ask four questions:
 4. Can I find what assumption failed if my prediction is wrong?
 
 If the answer is consistently yes, there is meaningful evidence of understanding ability for that topic.
+
+## Practical test for learning ability
+
+For one current learning difficulty, ask:
+
+1. What exactly must I be able to do?
+2. Is the earliest bottleneck a missing relation, cognitive load, practice, or strategy selection?
+3. Which one strategy will I test first?
+4. What immediate and delayed outcome will show whether it helped?
+5. What result would make me revise the diagnosis?
+
+This assesses a learning process in a defined context; it does not assign a global rank to the learner.

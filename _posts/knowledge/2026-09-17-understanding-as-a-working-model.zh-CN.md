@@ -32,6 +32,8 @@ record_type: knowledge
 3. **應用或遷移**該關係到新個案。
 4. 結果與模型衝突時，**檢視和修正假設**。
 
+因此，學習不只接收一項修正：要說出舊關係、找出最早失效的假設或遺漏條件、修訂最小的受影響部分、把它與仍然成立的內容整合，並在另一個個案中檢驗重構後模型。
+
 ## 實用區分
 
 | 表現 | 可能顯示甚麼 | 為何單獨看仍不足夠 |
@@ -59,4 +61,4 @@ record_type: knowledge
 
 ## 證據和下一項測試
 
-學習者已在力／質量例子中展示條件推理模式，並在日常主張中辨認被遺漏的變項。獨立表述和遷移仍待測試，見 [練習：條件性的因果主張](/zh-hant/practice/drills/conditional-claims/)。
+學習者已在力／質量例子中展示條件推理模式，並在日常主張中辨認被遺漏的變項。獨立表述和遷移仍待測試，見 [練習：條件性的因果主張](/zh-hant/practice/drills/conditional-claims/) 及 [練習：模型修訂與重構](/zh-hant/practice/drills/model-revision-and-reconstruction/)。

@@ -33,6 +33,8 @@ Develop a usable world-model conception of knowledge: distinguish world events, 
 
 - [ ] Explain the workspace correction: knowledge is a revisable world model constructed by the learner, whereas notes, books, data, and LLM responses are external model resources.
 - [ ] In one original example, distinguish world event, representation, internal relation, prediction/action, and revision trigger.
+- [ ] Elicit an overgeneralised current relation, identify the earliest failed assumption or missing condition after new evidence, and reconstruct a narrower relation that preserves what remains accurate.
+- [ ] Test the reconstructed relation in a changed case and name evidence that would require another revision.
 - [x] Distinguish remembering a statement from reasoning with a relation under stated conditions.
 - [x] Identify that understanding involves more than an explanation that merely sounds fluent.
 - [x] Identify that a claim can omit relevant variables or conditions.
@@ -42,11 +44,19 @@ Develop a usable world-model conception of knowledge: distinguish world events, 
 - [ ] Distinguish understanding from mastery, and classify the evidence needed for recognition, guided application, independent proficiency, transfer, and teaching/creation.
 - [ ] Complete [Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/) without notes.
 - [ ] Complete [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/) without notes.
+- [ ] Complete [Practice Drill: Model revision and reconstruction](/practice/drills/model-revision-and-reconstruction/) without notes.
 
 ## Cognitive support vs. understanding ability
 
 - [ ] Explain the A/B contrast: attention and memory support thinking but do not by themselves demonstrate understanding; explanation and transfer demonstrate topic-specific understanding, while overall cognitive ability remains unmeasured.
 - [ ] Practise diagnosing whether a difficulty is caused mainly by missing knowledge/model, cognitive load, or both.
+
+## Learning ability
+
+- [ ] Explain why learning ability is task-dependent and should not be treated as one fixed engine.
+- [ ] Diagnose a learning bottleneck as missing model, cognitive load, insufficient practice, or strategy selection.
+- [ ] Choose one strategy, define immediate and delayed measures, and state what result would revise the plan.
+- [ ] Complete [Practice Drill: Diagnose and Improve Learning Ability](/practice/drills/learning-ability-diagnosis/) without notes.
 
 ## Phase 3 — Deliberate practice
 
@@ -65,4 +75,4 @@ Develop a usable world-model conception of knowledge: distinguish world events, 
 
 ## Current next question
 
-> Choose one everyday example. What is happening in the world, what is only an external representation, what relation belongs in your world model, and what observation would make you revise it?
+> A learner feels familiar after rereading programming tutorials but cannot write a loop the next day. What is the earliest bottleneck, which one strategy should be tested first, and what immediate and delayed result would show whether it helped?

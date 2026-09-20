@@ -19,13 +19,13 @@ record_type: goals
 
 ## Goal statement
 
-**Outcome I want:** Develop a usable model in which knowledge is the learner's constructed, revisable world model; distinguish external model resources from knowledge, and distinguish knowledge, understanding, cognitive supports, skill, and mastery without confusing them.
+**Outcome I want:** Develop a usable six-question model: knowledge is the learner's constructed, revisable world model; learning tests, revises, and reconstructs it; ability is reliable task performance; and learning ability improves the acquisition and revision cycle. Distinguish these from external model resources, cognitive supports, skill, and mastery without confusing them.
 
 ## First concrete target
 
-- **Skill / topic:** Analyse the quality of a world model or claim; distinguish a world event, an external representation, and an internal model relation; distinguish cognitive supports from understanding ability; and distinguish understanding from levels of mastery.
+- **Skill / topic:** Analyse and reconstruct a world model or claim; distinguish a world event, an external representation, an internal model relation, ability, and learning ability; locate the earliest failed assumption after new evidence; select one condition-sensitive learning strategy; define performance measures; and distinguish cognitive supports from understanding and mastery.
 - **Why it matters now:** I want to learn actively rather than mistake an external note, remembered rule, fluent explanation, or strong memory for a tested internal model and real understanding.
-- **Observable performance by date:** By the next review, independently analyse three unfamiliar everyday claims. For each claim, distinguish the world event, relevant external representations, and the internal relation to construct; identify relevant conditions/variables; make a changed-case prediction; state what would revise the model; explain what evidence would demonstrate understanding; state whether a difficulty is primarily a cognitive-support issue, a knowledge/model issue, or both; and classify the evidence as recognition, explanation, guided application, independent proficiency, transfer, or teaching/creation.
+- **Observable performance by date:** By the next review, independently analyse three unfamiliar everyday claims. For each claim, distinguish the world event, relevant external representations, and the internal relation to construct; identify relevant conditions/variables; make a changed-case prediction; state what would revise the model; explain what evidence would demonstrate understanding and ability; diagnose whether a difficulty is primarily cognitive support, knowledge/model, practice, or strategy selection; choose one targeted strategy; define immediate and delayed measures; and classify the evidence as recognition, explanation, guided application, independent proficiency, transfer, or teaching/creation.
 - **Deadline / review date:** 2026-09-17
 - **Real-world context where I will use it:** Evaluating my own learning in study, work, and life.
 
@@ -48,12 +48,14 @@ I will consider this goal achieved when:
 - [ ] I can state the conditions and relevant variables behind a causal claim.
 - [ ] I can rewrite an absolute or overgeneralised claim into a testable conditional statement.
 - [ ] I can make a prediction in a changed scenario and explain the mechanism.
+- [ ] I can identify the smallest failed assumption or missing condition, revise the affected relation, and test it in a new case.
+- [ ] I can diagnose one learning bottleneck, select one suitable strategy, and define immediate and delayed evidence of improvement.
 - [ ] I have completed at least one representative drill and recorded feedback.
 - [ ] I have identified the next level of challenge or a maintenance/review plan.
 
 ## Today’s next smallest action
 
-- [ ] Without notes, use one original everyday example to distinguish a world event, an external representation, an internal model relation, a prediction it supports, and evidence that would revise it.
+- [ ] Without notes, complete [Practice Drill: Diagnose and Improve Learning Ability](/practice/drills/learning-ability-diagnosis/).
 
 ## Related files
 
@@ -65,3 +67,5 @@ I will consider this goal achieved when:
 - Connected concept map: [Learning concept map: from cognitive supports to mastery](/knowledge/learning-concept-map/)
 - Quick re-entry guide with examples: [Learning concept map explained in blocks: pick it up with examples anytime](/knowledge/learning-concept-map-explained/)
 - Core correction: [Knowledge as a World Model](/knowledge/knowledge-as-world-model/)
+- Learning process: [Learning as Model Revision and Reconstruction](/knowledge/learning-as-model-reconstruction/)
+- Six-question framework: [Six Questions: Knowledge, Learning, Ability, and Learning Ability](/knowledge/six-question-learning-framework/)

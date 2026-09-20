@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1110" viewBox="0 0 1600 1110" role="img" aria-labelledby="title desc">
-  <title id="title">Learning concept map: cognitive supports, understanding, and mastery</title>
-  <desc id="desc">A concept map showing how cognitive supports, knowledge and conceptual models, deliberate practice, understanding ability, mastery levels, and evidence criteria connect.</desc>
+  <title id="title">Learning concept map: world-model revision, understanding, and mastery</title>
+  <desc id="desc">A concept map showing how cognitive supports, a learner's revisable world model, new information and feedback, deliberate practice, understanding ability, mastery levels, and evidence criteria connect.</desc>
   <defs>
     <style>
       .bg { fill: #f8fafc; }
@@ -22,7 +22,7 @@
 
   <rect class="bg" width="1600" height="1110"/>
   <text x="70" y="65" class="title">Current Learning Topic: Concept Map</text>
-  <text x="70" y="98" class="subtitle">Cognitive Supports → Understanding → Mastery, connected by Deliberate Practice and Evidence</text>
+  <text x="70" y="98" class="subtitle">World-model revision → Understanding → Mastery, supported by Practice and Evidence</text>
 
   <!-- Top inputs -->
   <rect class="box" x="70" y="150" width="405" height="205" fill="#e0f2fe" stroke="#0284c7"/>
@@ -34,39 +34,39 @@
   <text x="100" y="345" class="mini">Supports performance; is not understanding itself</text>
 
   <rect class="box" x="585" y="150" width="430" height="205" fill="#dcfce7" stroke="#16a34a"/>
-  <text x="615" y="190" class="h">Knowledge + Conceptual Model</text>
-  <text x="615" y="221" class="t">Knowledge + Conceptual Model / Mental Representation</text>
-  <text x="620" y="258" class="small">• facts, vocabulary, examples</text>
-  <text x="620" y="288" class="small">• relationships, mechanisms, conditions</text>
-  <text x="620" y="318" class="small">• recognize patterns and anticipate errors</text>
+  <text x="615" y="190" class="h">World Model / Knowledge</text>
+  <text x="615" y="221" class="t">Usable internal representations and relations</text>
+  <text x="620" y="258" class="small">• facts, vocabulary, examples, procedures</text>
+  <text x="620" y="288" class="small">• relations, mechanisms, conditions</text>
+  <text x="620" y="318" class="small">• retrieve, predict, and guide action</text>
   <text x="615" y="345" class="mini">Weak model → missed conditions or faulty inferences</text>
 
   <rect class="box" x="1125" y="150" width="405" height="205" fill="#f3e8ff" stroke="#9333ea"/>
   <text x="1155" y="190" class="h">Deliberate Practice</text>
   <text x="1155" y="221" class="t">Deliberate / purposeful practice</text>
   <text x="1160" y="258" class="small">specific goal → focused attempt</text>
-  <text x="1160" y="288" class="small">feedback → error diagnosis</text>
-  <text x="1160" y="318" class="small">correction → next narrow drill</text>
-  <text x="1155" y="345" class="mini">Builds models and improves reliability</text>
+  <text x="1160" y="288" class="small">feedback → model mismatch</text>
+  <text x="1160" y="318" class="small">revise + integrate → retest</text>
+  <text x="1155" y="345" class="mini">Reconstructs models and improves reliability</text>
 
   <!-- central understanding -->
   <rect class="box" x="460" y="440" width="680" height="240" fill="#ccfbf1" stroke="#0f766e" stroke-width="3"/>
   <text x="510" y="490" class="h">Understanding Ability</text>
-  <text x="510" y="522" class="t">Use a conceptual model to reason; more than recall or fluent paraphrase</text>
+  <text x="510" y="522" class="t">Use and revise a world model; more than recall or fluent paraphrase</text>
   <text x="525" y="565" class="t">1. Explain: relations and mechanisms</text>
   <text x="525" y="598" class="t">2. Predict: when conditions change</text>
   <text x="525" y="631" class="t">3. Apply / Transfer: to a new context</text>
   <text x="810" y="565" class="t">4. Diagnose: identify errors</text>
-  <text x="810" y="598" class="t">5. Revise: assumptions from counterevidence</text>
-  <text x="510" y="656" class="mini">Question: Do I have a usable model?</text>
+  <text x="810" y="598" class="t">5. Revise + integrate: after counterevidence</text>
+  <text x="510" y="656" class="mini">Question: Can I reconstruct and test a usable model?</text>
 
   <!-- arrows top to central -->
   <path class="line" d="M272 355 C300 415, 420 440, 525 440"/>
   <text x="325" y="414" class="mini">enables / constrains</text>
   <path class="line2" d="M800 355 L800 430"/>
-  <text x="818" y="404" class="mini">provides model</text>
+  <text x="818" y="404" class="mini">supplies relations</text>
   <path class="dash" d="M1327 355 C1300 420, 1160 430, 1080 440"/>
-  <text x="1173" y="414" class="mini">builds &amp; tests</text>
+  <text x="1173" y="414" class="mini">exposes &amp; tests mismatch</text>
 
   <!-- mastery -->
   <rect class="box" x="370" y="770" width="860" height="180" fill="#ffedd5" stroke="#ea580c" stroke-width="3"/>
@@ -106,5 +106,5 @@
   <path class="line" d="M1230 858 C1240 858, 1240 790, 1245 790"/>
 
   <!-- footer -->
-  <text x="70" y="735" class="mini">Learning loop: Goal → Diagnose → Narrow Drill → Attempt → Feedback → Reflection → Next Drill → Review</text>
+  <text x="70" y="735" class="mini">Learning loop: Current Model → Mismatch → Diagnose → Revise + Integrate → Test → Narrow Drill → Review</text>
 </svg>

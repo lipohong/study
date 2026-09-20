@@ -62,13 +62,17 @@ record_type: knowledge
 
 ## 對學習的含意
 
-目標不只是收集筆記或重複定義，而是建立並檢驗世界模型中的一個關係：
+目標不只是收集筆記或重複定義。學習會透過**有針對性的修訂與重構**改變世界模型：找出狹隘或已失效的關係、吸收相關資訊、把更新與仍然成立的部分整合，並檢驗修訂後模型。
+
+目標是建立並檢驗世界模型中的一個關係：
 
 1. 指出正在被建模的世界部分或任務。
 2. 說明物件、變項、關係、機制或程序。
 3. 指出條件和限制。
 4. 在核對答案前，先預測一個已改變的個案。
 5. 把結果和證據比較；如有需要便修訂模型。
+
+不要把修訂當成刪除所有原先相信的內容。保留仍然準確的關係、縮窄範圍過大的主張，並只替換失效的假設、變項、機制或邊界條件。完整循環請見：[學習作為模型修訂與重構](/zh-hant/knowledge/learning-as-model-reconstruction/)。
 
 最小的下一項證據，是在不看筆記下，用一個原創日常例子解釋這個分別：甚麼在世界中、甚麼是外在表徵、甚麼關係在學習者的模型中，以及甚麼會令它修訂。
 
@@ -77,5 +81,5 @@ record_type: knowledge
 - 原始修正：[知識作為世界模型：學習者修正](/zh-hant/thinking/knowledge-as-world-model/)
 - 較早的定義，現應按此修正閱讀：[知識：一份工作地圖](/zh-hant/knowledge/knowledge-as-a-working-model/)
 - 已修訂的全貌圖：[知識：由世界走向明智行動](/zh-hant/knowledge/knowledge-full-map/)
+- 學習過程：[學習作為模型修訂與重構](/zh-hant/knowledge/learning-as-model-reconstruction/)
 - 目前學習狀態：[目前學習狀態](/zh-hant/context/learning-state/)
-

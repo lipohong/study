@@ -19,7 +19,7 @@ record_type: knowledge
 
 > **中文版本說明：** 英文對應檔 [Learning concept map: from cognitive supports to mastery](/knowledge/learning-concept-map/) 是準則來源（canonical source of truth）；如有歧義，以英文版為準。
 >
-> **狀態：** 目前已討論概念的工作地圖。用來組織診斷和練習；它不是最終的學習理論。
+> **狀態：** 目前已討論概念的工作地圖，並於 2026-09-20 重新定位。用來組織診斷和練習；它不是最終的學習理論。
 >
 > **建立日期：** 2026-09-11
 >
@@ -30,13 +30,12 @@ record_type: knowledge
 ```text
 Cognitive supports ── 促成／限制 ──┐
                                      │
-Knowledge + conceptual model ────────┼─> Understanding ability
-                                     │       ├─ 解釋
-                                     │       ├─ 預測改變的個案
-                                     │       ├─ 應用／遷移
-                                     │       └─ 診斷錯誤並修正假設
-                                     │
-Purposeful practice + feedback ─ 建立 ─┘
+World model / knowledge ─────────────┼─> Understanding ability
+                                     │       ├─ 解釋及預測
+New information + feedback ─ 揭示 ───┤       ├─ 找出失效假設
+model mismatch ── 修訂 + 整合 ───────┤       ├─ 應用／遷移
+                                     │       └─ 檢驗重構後模型
+Purposeful practice ── 強化 ─────────┘
                  │
                  └─> 在界定條件下可靠的表現 = Mastery
                          ├─ 辨認
@@ -55,9 +54,11 @@ Purposeful practice + feedback ─ 建立 ─┘
 
 它們是**支援**，不是理解的證明。強記憶或專注可以和只會回憶定義同時存在。
 
-### 2. 知識與概念模型
+### 2. 知識作為世界模型
 
-事實、詞彙、例子、關係和機制，構成學習者建立**概念模型（conceptual model）**（又稱心理表徵）的材料。薄弱或不完整的模型會導致遺漏條件、不正確的因果推論和薄弱的遷移。
+**知識（knowledge）**是學習者內在**世界模型（world model）**中相對可靠、可被使用的部分：有組織的事實、詞彙、例子、關係、機制、條件和程序表徵。外部書籍、筆記、數據和 LLM 回應是模型資源，並不會自動成為學習者的知識。
+
+學習不只是加入資源，而是檢驗目前模型、找出最小的失效關係或假設，再把那部分與仍然準確的內容修訂和整合。薄弱或不完整的模型會導致遺漏條件、不正確的因果推論和薄弱的遷移。
 
 ### 3. 理解能力
 
@@ -66,7 +67,7 @@ Purposeful practice + feedback ─ 建立 ─┘
 1. **解釋**一個關係或機制。
 2. **預測**條件改變時有甚麼改變。
 3. **應用／遷移**該關係到一個新個案。
-4. 出現錯誤或反證後，**診斷和修正**一個假設。
+4. 出現錯誤或反證後，**診斷、修訂和整合**一個假設。
 
 這使理解成為儲存知識與表現之間的橋樑。
 
@@ -97,11 +98,17 @@ Purposeful practice + feedback ─ 建立 ─┘
 - **遷移（transfer）：** 改變情況後仍成立嗎？
 - **反思（reflection）：** 能找出並修正相關錯誤嗎？
 
-### 7. 刻意練習循環
+### 7. 模型修訂與重構循環
+
+`目前模型 → 已改變個案、新資訊或回饋 → 找出不吻合 → 定位最早失效的假設 → 修訂並整合關係 → 在新個案檢驗`
+
+修訂不是整體否定舊有知識。保留仍然準確的關係；只縮窄、替換或重新組織已失效的關係、變項、機制或邊界條件。
+
+### 8. 刻意練習循環
 
 `目標 → 診斷 → 窄練習 → 嘗試 → 回饋 → 反思 → 下一個練習 → 複習`
 
-此循環同時改善學習者的模型和表現的可靠性。回饋揭示最早失敗的一步；有針對性的練習再強化一個特定的薄弱環節。
+此循環同時改善學習者的模型和表現的可靠性。回饋揭示最早失敗的一步；有針對性的練習再強化一個特定的薄弱環節，並檢驗修訂能否遷移。
 
 ## 診斷問題
 
@@ -119,3 +126,6 @@ Purposeful practice + feedback ─ 建立 ─┘
 - [認知支援與理解能力](/zh-hant/knowledge/cognitive-supports-versus-understanding/)
 - [能力與理解能力](/zh-hant/knowledge/ability-and-understanding-ability/)
 - [理解與掌握](/zh-hant/knowledge/understanding-and-mastery/)
+- [知識作為世界模型](/zh-hant/knowledge/knowledge-as-world-model/)
+- [學習作為模型修訂與重構](/zh-hant/knowledge/learning-as-model-reconstruction/)
+- [六題：知識、學習、能力與學習能力](/zh-hant/knowledge/six-question-learning-framework/)

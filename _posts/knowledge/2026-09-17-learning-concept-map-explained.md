@@ -31,9 +31,11 @@ record_type: knowledge
 ```text
 Cognitive supports (conditions for processing information)
           +
-Knowledge + conceptual model (what you know and how it connects)
+World model / knowledge (the usable internal relations you have constructed)
           +
-Practice + feedback (how weak points become stronger)
+New information + feedback (expose mismatch, then revise and integrate)
+          +
+Practice (tests whether the reconstructed model works)
           ↓
 Understanding (explain, predict, apply, revise)
           ↓
@@ -42,7 +44,7 @@ Mastery (reliable, independent, flexible performance in a defined task)
 Check evidence: correct? stable? unprompted? transferable? can errors be repaired?
 ```
 
-> **Cognitive supports give room to think; knowledge and models tell you how to think; practice and feedback improve accuracy; understanding lets you explain, infer, and use; mastery lets you perform reliably.**
+> **Cognitive supports give room to think; the world model supplies relations for thinking; new information and feedback reveal where it fails; revision and practice make the model more accurate and usable; mastery makes performance reliable.**
 
 ---
 
@@ -87,14 +89,15 @@ Check cognitive supports when you think: “I have seen this but get jammed in a
 
 ---
 
-# Block B — Knowledge + conceptual model: the usable map in your mind
+# Block B — Knowledge as a world model: the usable map in your mind
 
-## B1. Knowledge is not a conceptual model
+## B1. Knowledge is the usable part of a world model
 
-- **Knowledge:** facts, vocabulary, formulae, examples, and rules.
-- **Conceptual model:** the structure connecting them: what affects what, under which conditions, and why.
+- **Knowledge:** the relatively dependable, usable part of the internal world model.
+- **World model:** the organised relations among facts, vocabulary, formulae, examples, mechanisms, conditions, and procedures.
+- **External resources:** books, notes, data, and LLM replies that may update the model but are not automatically the learner's knowledge.
 
-Words, formulae, and rules are place names on a map; a conceptual model is the roads, directions, terrain, and relations for reaching a destination.
+Words, formulae, and rules can be resources for building the map. The learner has knowledge when the relevant relation has been constructed, can be retrieved, and can guide explanation, prediction, or action.
 
 ## B2. Supply and price
 
@@ -113,6 +116,18 @@ A **mental representation** is a compressed, organised map of a situation. A nov
 The model may be weak when you can memorise a definition but not see what a question asks, treat changed wording as new knowledge, remember only an answer, or treat a counterexample as destroying a rule instead of revealing an omitted condition.
 
 > Am I missing a fact, or a causal/conditional model that connects facts?
+
+## B5. Revision and reconstruction
+
+Learning is not just adding a new fact beside an old answer. When a changed case, new evidence, or feedback conflicts with the current model:
+
+1. State the old relation and its assumed conditions.
+2. Locate the earliest failed assumption, missing variable, mechanism, or boundary.
+3. Revise the smallest affected part.
+4. Integrate it with relations that still hold.
+5. Test the reconstructed model on a new case.
+
+Do not discard all prior knowledge because one relation failed. A failed absolute claim often becomes a narrower, more accurate conditional relation.
 
 ---
 
@@ -260,6 +275,8 @@ When stuck, ask:
 4. Can I transfer when context changes?
 5. Can I identify the assumption or step that failed after an error?
 
+6. What must be preserved, narrowed, replaced, and retested in my model?
+
 ## Related notes
 
 - [Learning concept map: from cognitive supports to mastery](/knowledge/learning-concept-map/)
@@ -267,3 +284,5 @@ When stuck, ask:
 - [Cognitive supports versus understanding ability](/knowledge/cognitive-supports-versus-understanding/)
 - [Ability and understanding ability](/knowledge/ability-and-understanding-ability/)
 - [Understanding and mastery](/knowledge/understanding-and-mastery/)
+- [Knowledge as a World Model](/knowledge/knowledge-as-world-model/)
+- [Learning as Model Revision and Reconstruction](/knowledge/learning-as-model-reconstruction/)

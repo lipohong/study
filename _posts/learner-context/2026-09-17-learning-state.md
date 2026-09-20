@@ -20,7 +20,7 @@ record_type: learner-context
 
 ## Active objective
 
-Develop a practical model in which **knowledge is the learner's constructed, revisable world model**, and **understanding** is demonstrated use and revision of relevant parts of that model. Continue to distinguish recall from causal/model-based reasoning; distinguish attention, working memory, and self-regulation from understanding itself; state conditions behind claims; and test the model in unfamiliar cases.
+Develop a practical six-question model: **knowledge** is the learner's constructed, revisable world model; **learning** tests, revises, and reconstructs it; **ability** is reliable task performance; and **learning ability** is the task-dependent capacity to improve that cycle. Continue to distinguish recall from causal/model-based reasoning; distinguish attention, working memory, and self-regulation from understanding itself; state conditions behind claims; and test the model in unfamiliar cases.
 
 ## Current status
 
@@ -28,6 +28,8 @@ Develop a practical model in which **knowledge is the learner's constructed, rev
 - The learner completed a short guided diagnostic using Newton's second law and everyday causal claims.
 - The active learning path and first drill are recorded in [Goal Breakdown](/goals/breakdown/) and [Practice Drill: Conditional causal claims](/practice/drills/conditional-claims/).
 - The learner requested a correction on 2026-09-20: knowledge should be centred on the world model constructed in the brain, not primarily on externally stored facts, information, or isolated competences. The raw wording is retained in [Knowledge as a world model: learner correction](/thinking/knowledge-as-world-model/). The revised working note is [Knowledge as a World Model](/knowledge/knowledge-as-world-model/); independent explanation, application, or revision of this framing remains unverified.
+- The learner further requested that learning be framed as destruction and reconstruction: identify a narrow, failed, or overly restrictive relation in an existing model; integrate relevant new information; and test the reconstructed relation. The raw wording is retained in [Learning as model reconstruction: learner statement](/thinking/learning-as-model-reconstruction/). Independent completion of this revision cycle remains unverified.
+- The learner supplied a six-question framework connecting knowledge, learning, ability, learning ability, and improvement strategies. It has been retained with corrections to the “material/process/result/engine” shorthand and its empirical claims. The revised note is [Six Questions: Knowledge, Learning, Ability, and Learning Ability](/knowledge/six-question-learning-framework/); independent classification, strategy selection, and measurement remain unverified.
 
 ## High-signal evidence
 
@@ -57,7 +59,11 @@ Knowledge is now treated as the learner's **revisable internal world model**: or
 
 A robust understanding is not mere recall or fluent paraphrase. It is demonstrated use and revision of a relevant part of that world model through **explanation, prediction, application/transfer, and inspection or revision of assumptions when conditions change.** This is a working model to be tested further, not yet a mastery claim.
 
+Learning is now treated as **model revision and reconstruction**, not simple information accumulation: elicit the current relation, use a changed case or evidence to expose a mismatch, locate the earliest failed assumption or missing condition, revise the smallest affected part, integrate it with what still holds, and test it again. “Destruction” means narrowing, withdrawing, or replacing the failed part, not discarding the entire knowledge network.
+
 A practical hierarchy now separates recognition, explanation, guided application, independent proficiency, transfer/flexible mastery, and creation/teaching. **Mastery** should be recorded only against a defined task context and supported by evidence of accuracy, stability, independence, transfer, and error correction. The learner has received this framework but has not yet independently applied it to classify examples.
+
+Learning ability is now treated as a **task-dependent meta-level capacity**, not a fixed engine: diagnose the earliest bottleneck, choose a condition-sensitive strategy, monitor whether it improves delayed performance or transfer, and revise the strategy from evidence.
 
 ## Cognitive-support versus understanding checkpoint
 
@@ -65,7 +71,7 @@ The learner was asked to compare: (A) strong concentration and memory with only 
 
 ## Immediate next action
 
-Without notes, explain the world-model framing using one original everyday example: distinguish the world event, an external representation, the relevant internal relation, a prediction or action it supports, and what would revise it. Then continue with [Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/) and [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/). Diagnose one real learning difficulty as primarily a missing or inaccurate model, cognitive load, or both.
+Without notes, complete [Practice Drill: Diagnose and Improve Learning Ability](/practice/drills/learning-ability-diagnosis/). Then complete [Practice Drill: Model revision and reconstruction](/practice/drills/model-revision-and-reconstruction/), followed by [Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/) and [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/).
 
 ## Linked evidence
 
@@ -80,8 +86,14 @@ Without notes, explain the world-model framing using one original everyday examp
 - Vocabulary framework: [Understanding a word or idiom](/knowledge/understanding-words-and-idioms/)
 - Core knowledge correction: [Knowledge as a World Model](/knowledge/knowledge-as-world-model/)
 - Raw learner correction: [Knowledge as a world model: learner correction](/thinking/knowledge-as-world-model/)
+- Learning process: [Learning as Model Revision and Reconstruction](/knowledge/learning-as-model-reconstruction/)
+- Raw learner statement: [Learning as model reconstruction: learner statement](/thinking/learning-as-model-reconstruction/)
+- New drill: [Practice Drill: Model revision and reconstruction](/practice/drills/model-revision-and-reconstruction/)
 - Next drill: [Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/)
 - Mastery framework: [Understanding and mastery](/knowledge/understanding-and-mastery/)
 - Connected concept map: [Learning concept map: from cognitive supports to mastery](/knowledge/learning-concept-map/) and [`../Diagrams/2026-09-11-learning-concept-map.svg`](/Diagrams/2026-09-11-learning-concept-map.svg)
 - Chunked example guide for quick re-entry: [Learning concept map explained in blocks: pick it up with examples anytime](/knowledge/learning-concept-map-explained/)
 - Mastery-level drill: [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/)
+- Six-question framework: [Six Questions: Knowledge, Learning, Ability, and Learning Ability](/knowledge/six-question-learning-framework/)
+- Raw six-question framing: [Six-question learning framework: learner framing](/thinking/six-question-learning-framework/)
+- Learning-ability drill: [Practice Drill: Diagnose and Improve Learning Ability](/practice/drills/learning-ability-diagnosis/)

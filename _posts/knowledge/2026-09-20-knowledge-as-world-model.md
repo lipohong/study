@@ -60,13 +60,17 @@ This preserves the earlier concern with support, truth, uncertainty, and conditi
 
 ## Learning implication
 
-Do not aim merely to collect notes or repeat definitions. Aim to build and test a relation in the world model:
+Do not aim merely to collect notes or repeat definitions. Learning changes a world model through **targeted revision and reconstruction**: identify the narrow or failed relation, take in relevant information, integrate the update with what still holds, and test the revised model.
+
+Aim to build and test a relation in the world model:
 
 1. Identify the part of the world or task being modelled.
 2. State the objects, variables, relation, mechanism, or procedure.
 3. Name conditions and limits.
 4. Predict a changed case before checking the answer.
 5. Compare the result with evidence and revise the model if needed.
+
+Do not treat revision as deleting everything previously believed. Preserve relations that remain accurate, narrow claims whose scope was too broad, and replace only the assumption, variable, mechanism, or boundary condition that failed. See [Learning as Model Revision and Reconstruction](/knowledge/learning-as-model-reconstruction/) for the full cycle.
 
 The smallest next evidence is a no-notes explanation of this distinction using one original everyday example, including what is in the world, what is an external representation, what relation is in the learner's model, and what would revise it.
 
@@ -75,5 +79,5 @@ The smallest next evidence is a no-notes explanation of this distinction using o
 - Raw correction: [Knowledge as a world model: learner correction](/thinking/knowledge-as-world-model/)
 - Earlier definition, now read through this correction: [Knowledge: a working map](/knowledge/knowledge-as-a-working-model/)
 - Revised whole map: [Knowledge: From World to Wise Action](/knowledge/knowledge-full-map/)
+- Learning process: [Learning as Model Revision and Reconstruction](/knowledge/learning-as-model-reconstruction/)
 - Current learning state: [Current Learning State](/context/learning-state/)
-

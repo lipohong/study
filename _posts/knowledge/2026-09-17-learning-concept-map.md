@@ -15,7 +15,7 @@ record_type: knowledge
 > **Chinese version:** [/zh-hant/knowledge/learning-concept-map/](/zh-hant/knowledge/learning-concept-map/)
 
 
-> **Status:** Working map of the concepts discussed so far. Use it to organise diagnosis and practice; it is not a final theory of learning.
+> **Status:** Working map of the concepts discussed so far, reframed on 2026-09-20. Use it to organise diagnosis and practice; it is not a final theory of learning.
 >
 > **Created:** 2026-09-11
 >
@@ -26,13 +26,12 @@ record_type: knowledge
 ```text
 Cognitive supports ── enable / constrain ──┐
                                            │
-Knowledge + conceptual model ──────────────┼─> Understanding ability
-                                           │       ├─ explain
-                                           │       ├─ predict changed cases
-                                           │       ├─ apply / transfer
-                                           │       └─ diagnose errors and revise assumptions
-                                           │
-Purposeful practice + feedback ── builds ──┘
+World model / knowledge ───────────────────┼─> Understanding ability
+                                           │       ├─ explain and predict
+New information + feedback ── expose ───────┤       ├─ locate failed assumptions
+model mismatch ── revise + integrate ───────┤       ├─ apply / transfer
+                                           │       └─ test the reconstructed model
+Purposeful practice ── strengthens ─────────┘
                  │
                  └─> reliable performance under defined conditions = Mastery
                          ├─ recognition
@@ -51,9 +50,11 @@ Purposeful practice + feedback ── builds ──┘
 
 They are **supports**, not proof of understanding. Strong memory or concentration can coexist with definition-only recall.
 
-### 2. Knowledge and conceptual model
+### 2. Knowledge as a world model
 
-Facts, vocabulary, examples, relations, and mechanisms form the material from which the learner builds a **conceptual model** (also called a mental representation). A weak or incomplete model leads to omitted conditions, incorrect causal inferences, and weak transfer.
+**Knowledge** is the relatively dependable, usable part of the learner's internal **world model**: organised representations of facts, vocabulary, examples, relations, mechanisms, conditions, and procedures. External books, notes, data, and LLM replies are model resources, not automatically the learner's knowledge.
+
+Learning does not merely add resources. It tests the current model, identifies the smallest failed relation or assumption, then revises and integrates that part with what remains accurate. A weak or incomplete model leads to omitted conditions, incorrect causal inferences, and weak transfer.
 
 ### 3. Understanding ability
 
@@ -62,7 +63,7 @@ Understanding is demonstrated by using a model rather than simply repeating info
 1. **Explain** a relationship or mechanism.
 2. **Predict** what changes when conditions change.
 3. **Apply / transfer** the relation to a new case.
-4. **Diagnose and revise** an assumption after error or counterevidence.
+4. **Diagnose, revise, and integrate** an assumption after error or counterevidence.
 
 This makes understanding a bridge between stored knowledge and performance.
 
@@ -93,11 +94,17 @@ Do not infer a level from confidence or one correct answer. Check:
 - **Transfer** — does it survive a changed situation?
 - **Reflection** — can the learner find and repair a relevant error?
 
-### 7. Deliberate-practice loop
+### 7. Model revision and reconstruction loop
+
+`Current model → changed case, new information, or feedback → identify mismatch → locate earliest failed assumption → revise and integrate the relation → test in a new case`
+
+Revision is not wholesale rejection of prior knowledge. Preserve relations that remain accurate; narrow, replace, or reorganise only the relation, variable, mechanism, or boundary condition that failed.
+
+### 8. Deliberate-practice loop
 
 `Goal → diagnose → narrow drill → attempt → feedback → reflection → next drill → review`
 
-The loop improves both the learner's model and the reliability of their performance. Feedback reveals the earliest failed step; targeted practice then strengthens a specific weak link.
+The loop improves both the learner's model and the reliability of their performance. Feedback reveals the earliest failed step; targeted practice then strengthens a specific weak link and tests whether the revision transfers.
 
 ## Diagnostic questions
 
@@ -115,3 +122,6 @@ When a learning task goes badly, separate possible causes:
 - [Cognitive supports versus understanding ability](/knowledge/cognitive-supports-versus-understanding/)
 - [Ability and understanding ability](/knowledge/ability-and-understanding-ability/)
 - [Understanding and mastery](/knowledge/understanding-and-mastery/)
+- [Knowledge as a World Model](/knowledge/knowledge-as-world-model/)
+- [Learning as Model Revision and Reconstruction](/knowledge/learning-as-model-reconstruction/)
+- [Six Questions: Knowledge, Learning, Ability, and Learning Ability](/knowledge/six-question-learning-framework/)

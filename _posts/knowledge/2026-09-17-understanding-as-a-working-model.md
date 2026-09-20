@@ -28,6 +28,8 @@ Understanding is stronger than recalling a statement or producing a fluent parap
 3. **Apply or transfer** the relation to a new case.
 4. **Inspect and revise assumptions** when a result conflicts with the model.
 
+Learning therefore requires more than receiving a correction: state the old relation, locate the earliest failed assumption or missing condition, revise the smallest affected part, integrate it with what still holds, and test the reconstructed model in another case.
+
 ## Practical distinction
 
 | Performance | What it may show | Why it is insufficient by itself |
@@ -55,4 +57,4 @@ A better claim must specify conditions such as learning method, attention, rest,
 
 ## Evidence and next test
 
-The learner has demonstrated the conditional reasoning pattern in a force/mass example and recognised omitted variables in everyday claims. Independent formulation and transfer remain to be tested in [Practice Drill: Conditional causal claims](/practice/drills/conditional-claims/).
+The learner has demonstrated the conditional reasoning pattern in a force/mass example and recognised omitted variables in everyday claims. Independent formulation and transfer remain to be tested in [Practice Drill: Conditional causal claims](/practice/drills/conditional-claims/) and [Practice Drill: Model revision and reconstruction](/practice/drills/model-revision-and-reconstruction/).

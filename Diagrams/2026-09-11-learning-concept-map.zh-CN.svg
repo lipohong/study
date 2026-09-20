@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1110" viewBox="0 0 1600 1110" role="img" aria-labelledby="title desc">
-  <title id="title">學習概念圖：認知支援、理解與掌握</title>
-  <desc id="desc">一張概念圖，顯示認知支援、知識與概念模型、刻意練習、理解能力、掌握層次及評估證據之間的關係。英文對應檔為權威版本。</desc>
+  <title id="title">學習概念圖：世界模型修訂、理解與掌握</title>
+  <desc id="desc">一張概念圖，顯示認知支援、學習者可修訂的世界模型、新資訊與回饋、刻意練習、理解能力、掌握層次及評估證據之間的關係。英文對應檔為權威版本。</desc>
   <defs>
     <style>
       .bg { fill: #f8fafc; }
@@ -22,7 +22,7 @@
 
   <rect class="bg" width="1600" height="1110"/>
   <text x="70" y="65" class="title">目前學習主題：概念關係圖</text>
-  <text x="70" y="98" class="subtitle">認知支援 → 理解 → 掌握；由刻意練習與證據連接</text>
+  <text x="70" y="98" class="subtitle">世界模型修訂 → 理解 → 掌握；由練習與證據支援</text>
 
   <rect class="box" x="70" y="150" width="405" height="205" fill="#e0f2fe" stroke="#0284c7"/>
   <text x="100" y="190" class="h">認知支援</text>
@@ -33,37 +33,37 @@
   <text x="100" y="345" class="mini">支援表現；本身不等於理解</text>
 
   <rect class="box" x="585" y="150" width="430" height="205" fill="#dcfce7" stroke="#16a34a"/>
-  <text x="615" y="190" class="h">知識 + 概念模型</text>
-  <text x="615" y="221" class="t">知識 + 概念模型／心理表徵</text>
-  <text x="620" y="258" class="small">• 事實、詞彙、例子</text>
+  <text x="615" y="190" class="h">世界模型／知識</text>
+  <text x="615" y="221" class="t">可用的內在表徵與關係</text>
+  <text x="620" y="258" class="small">• 事實、詞彙、例子、程序</text>
   <text x="620" y="288" class="small">• 關係、機制、條件</text>
-  <text x="620" y="318" class="small">• 辨識模式及預期錯誤</text>
+  <text x="620" y="318" class="small">• 提取、預測及引導行動</text>
   <text x="615" y="345" class="mini">模型薄弱 → 遺漏條件或作出錯誤推論</text>
 
   <rect class="box" x="1125" y="150" width="405" height="205" fill="#f3e8ff" stroke="#9333ea"/>
   <text x="1155" y="190" class="h">刻意練習</text>
   <text x="1155" y="221" class="t">有目的、有針對性的練習</text>
   <text x="1160" y="258" class="small">具體目標 → 專注嘗試</text>
-  <text x="1160" y="288" class="small">回饋 → 錯誤診斷</text>
-  <text x="1160" y="318" class="small">修正 → 下一個狹窄練習</text>
-  <text x="1155" y="345" class="mini">建立模型，也提升可靠性</text>
+  <text x="1160" y="288" class="small">回饋 → 模型不吻合</text>
+  <text x="1160" y="318" class="small">修訂 + 整合 → 再檢驗</text>
+  <text x="1155" y="345" class="mini">重構模型，也提升可靠性</text>
 
   <rect class="box" x="460" y="440" width="680" height="240" fill="#ccfbf1" stroke="#0f766e" stroke-width="3"/>
   <text x="510" y="490" class="h">理解能力</text>
-  <text x="510" y="522" class="t">用概念模型推理；不只是回憶或流暢覆述</text>
+  <text x="510" y="522" class="t">使用及修訂世界模型；不只是回憶或流暢覆述</text>
   <text x="525" y="565" class="t">1. 解釋：關係和機制</text>
   <text x="525" y="598" class="t">2. 預測：條件改變時</text>
   <text x="525" y="631" class="t">3. 應用／遷移：到新情境</text>
   <text x="810" y="565" class="t">4. 診斷：找出錯誤</text>
-  <text x="810" y="598" class="t">5. 修正：依反證改變假設</text>
-  <text x="510" y="656" class="mini">問題：我是否有一個可用的模型？</text>
+  <text x="810" y="598" class="t">5. 修訂 + 整合：依反證更新</text>
+  <text x="510" y="656" class="mini">問題：我能否重構及檢驗可用模型？</text>
 
   <path class="line" d="M272 355 C300 415, 420 440, 525 440"/>
   <text x="325" y="414" class="mini">促成／限制</text>
   <path class="line2" d="M800 355 L800 430"/>
-  <text x="818" y="404" class="mini">提供模型</text>
+  <text x="818" y="404" class="mini">提供關係</text>
   <path class="dash" d="M1327 355 C1300 420, 1160 430, 1080 440"/>
-  <text x="1173" y="414" class="mini">建立及測試</text>
+  <text x="1173" y="414" class="mini">揭示及檢驗不吻合</text>
 
   <rect class="box" x="370" y="770" width="860" height="180" fill="#ffedd5" stroke="#ea580c" stroke-width="3"/>
   <text x="420" y="818" class="h">掌握</text>
@@ -99,5 +99,5 @@
   <text x="1275" y="862" class="small">• 反思</text><text x="1275" y="886" class="mini">能發現及修正錯誤嗎？</text>
   <path class="line" d="M1230 858 C1240 858, 1240 790, 1245 790"/>
 
-  <text x="70" y="735" class="mini">學習迴圈：目標 → 診斷 → 狹窄練習 → 嘗試 → 回饋 → 反思 → 下一個練習 → 複習</text>
+  <text x="70" y="735" class="mini">學習迴圈：目前模型 → 不吻合 → 診斷 → 修訂 + 整合 → 檢驗 → 窄練習 → 複習</text>
 </svg>
