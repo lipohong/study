@@ -19,7 +19,7 @@ record_type: goals
 
 ## Active goal
 
-Develop a usable understanding of understanding: distinguish memorisation from model-based reasoning, identify hidden conditions in claims, and apply the framework to unfamiliar cases.
+Develop a usable world-model conception of knowledge: distinguish world events, external model resources, and internal model relations; distinguish memorisation from model-based reasoning; identify hidden conditions in claims; and apply the framework to unfamiliar cases.
 
 ## Phase 1 — Establish current evidence
 
@@ -31,6 +31,8 @@ Develop a usable understanding of understanding: distinguish memorisation from m
 
 ## Phase 2 — Build the model of understanding
 
+- [ ] Explain the workspace correction: knowledge is a revisable world model constructed by the learner, whereas notes, books, data, and LLM responses are external model resources.
+- [ ] In one original example, distinguish world event, representation, internal relation, prediction/action, and revision trigger.
 - [x] Distinguish remembering a statement from reasoning with a relation under stated conditions.
 - [x] Identify that understanding involves more than an explanation that merely sounds fluent.
 - [x] Identify that a claim can omit relevant variables or conditions.
@@ -63,4 +65,4 @@ Develop a usable understanding of understanding: distinguish memorisation from m
 
 ## Current next question
 
-> Rewrite “讀書時間越長，成績一定越好” so it names the relevant conditions and does not claim more certainty than the evidence supports.
+> Choose one everyday example. What is happening in the world, what is only an external representation, what relation belongs in your world model, and what observation would make you revise it?

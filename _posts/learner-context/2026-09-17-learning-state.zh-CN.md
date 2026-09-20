@@ -19,18 +19,18 @@ record_type: learner-context
 
 > **中文版說明：** 英文版 [Current Learning State](/context/learning-state/) 是唯一準據來源（canonical source of truth）。
 
-> **最後更新：** 2026-09-16  
+> **最後更新：** 2026-09-20
 > 請保持精簡。這是 LLM 目前的導覽面板，不是完整日記。
 
 ## 進行中的目標
 
-建立一個實用的**理解（understanding）**及其認知支援（cognitive supports）模型：區分回憶與因果／模型為本的推理；區分注意力、工作記憶和自我調節與理解本身；說明主張背後的條件；並在陌生情境中測試該模型。
+建立一個實用模型：**知識是學習者所構建、可修訂的世界模型**，而**理解（understanding）**是對該模型相關部分作出已展示的使用和修訂。繼續區分回憶與因果／模型為本的推理；區分注意力、工作記憶和自我調節與理解本身；說明主張背後的條件；並在陌生情境中測試該模型。
 
 ## 目前狀態
 
 - 學習者已使用牛頓第二定律及日常因果主張完成一項短暫、有引導的診斷。
 - 目前學習路徑及第一個練習已記錄在 [目標拆解](/zh-hant/goals/breakdown/) 和 [Practice Drill: Conditional causal claims](/practice/drills/conditional-claims/)。
-- 學習者要求為工作區的實用 knowledge 定義建立逐詞的現實 mapping。中英對照解釋已存於 [Knowledge: a working map](/knowledge/knowledge-as-a-working-model/)；對該定義的獨立分類或應用仍未經驗證。
+- 學習者於 2026-09-20 要求一項修正：知識應以大腦中構建的世界模型為中心，而不應主要被看成外部儲存的事實、資訊或彼此孤立的能力。原文保存在 [知識作為世界模型：學習者修正](/zh-hant/thinking/knowledge-as-world-model/)。修訂後的工作筆記是 [知識作為世界模型](/zh-hant/knowledge/knowledge-as-world-model/)；對此 framing 的獨立解釋、應用或修訂仍未經驗證。
 
 ## 高訊號證據
 
@@ -56,7 +56,9 @@ record_type: learner-context
 
 ## 目前工作模型
 
-穩健的理解不只是回憶或流暢轉述。它應能支持：**解釋、預測、應用／遷移，以及在條件改變時檢查或修訂假設。** 這是仍待進一步測試的工作模型，尚不是精通的主張。
+知識現被看成學習者**可修訂的內在世界模型**：對物件、關係、條件、程序和可能後果所作的、有組織表徵。外部筆記、數據、書籍、影片和 LLM 回應是模型資源；只因可取得，不會自動成為學習者的知識。一個模型可能不完整或錯誤，因此支持、條件、預測和可能反證仍是必要檢查。
+
+穩健的理解不只是回憶或流暢轉述。它是對世界模型相關部分作出已展示的使用和修訂，並應支持：**解釋、預測、應用／遷移，以及在條件改變時檢查或修訂假設。** 這是仍待進一步測試的工作模型，尚不是精通的主張。
 
 一個實用的層級現時區分辨識、解釋、有引導的應用、獨立熟練、遷移／彈性精通，以及創作／教學。**精通（mastery）**只應針對已界定的任務情境記錄，並有準確性、穩定性、獨立性、遷移和錯誤修正的證據支持。學習者已接收此框架，但尚未獨立應用它來分類例子。
 
@@ -66,7 +68,7 @@ record_type: learner-context
 
 ## 即時下一步
 
-學習者已收到認知支援與理解能力、以及理解與精通之間的區分。下一步是在不看筆記下完成 [Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/) 及 [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/)。之後，診斷一項真實學習困難主要屬於缺少知識／模型、認知負荷，或兩者兼有。
+在不看筆記下，用一個原創日常例子解釋世界模型 framing：區分世界事件、外在表徵、相關內在關係、它支持的預測或行動，以及甚麼會令模型修訂。之後，完成 [Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/) 及 [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/)。再診斷一項真實學習困難，主要是缺少或不準確的模型、認知負荷，還是兩者兼有。
 
 ## 已連結的證據
 
@@ -79,9 +81,10 @@ record_type: learner-context
 - 認知支援區分：[Cognitive supports versus understanding ability](/knowledge/cognitive-supports-versus-understanding/)
 - 能力定義：[Ability and understanding ability](/knowledge/ability-and-understanding-ability/)
 - 詞彙框架：[Understanding a word or idiom](/knowledge/understanding-words-and-idioms/)
+- 核心知識修正：[知識作為世界模型](/zh-hant/knowledge/knowledge-as-world-model/)
+- 學習者原始修正：[知識作為世界模型：學習者修正](/zh-hant/thinking/knowledge-as-world-model/)
 - 下一個練習：[Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/)
 - 精通框架：[Understanding and mastery](/knowledge/understanding-and-mastery/)
 - 相關概念圖：[Learning concept map: from cognitive supports to mastery](/knowledge/learning-concept-map/) 和 [`../Diagrams/2026-09-11-learning-concept-map.svg`](/Diagrams/2026-09-11-learning-concept-map.svg)
 - 供快速重新進入的分段例子指南：[Learning concept map explained in blocks: pick it up with examples anytime](/knowledge/learning-concept-map-explained/)
 - 精通層級練習：[Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/)
-

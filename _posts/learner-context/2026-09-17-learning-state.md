@@ -15,19 +15,19 @@ record_type: learner-context
 > **Chinese version:** [/zh-hant/context/learning-state/](/zh-hant/context/learning-state/)
 
 
-> **Last updated:** 2026-09-16  
+> **Last updated:** 2026-09-20
 > Keep this concise. It is the LLM's current navigation panel, not a full diary.
 
 ## Active objective
 
-Develop a practical model of **understanding** and its cognitive supports: distinguish recall from causal/model-based reasoning; distinguish attention, working memory, and self-regulation from understanding itself; state conditions behind claims; and test the model in unfamiliar cases.
+Develop a practical model in which **knowledge is the learner's constructed, revisable world model**, and **understanding** is demonstrated use and revision of relevant parts of that model. Continue to distinguish recall from causal/model-based reasoning; distinguish attention, working memory, and self-regulation from understanding itself; state conditions behind claims; and test the model in unfamiliar cases.
 
 ## Current status
 
 
 - The learner completed a short guided diagnostic using Newton's second law and everyday causal claims.
 - The active learning path and first drill are recorded in [Goal Breakdown](/goals/breakdown/) and [Practice Drill: Conditional causal claims](/practice/drills/conditional-claims/).
-- The learner requested a term-by-term reality mapping for the workspace’s practical definition of knowledge. The bilingual explanation is stored in [Knowledge: a working map](/knowledge/knowledge-as-a-working-model/); independent classification or application of the definition remains unverified.
+- The learner requested a correction on 2026-09-20: knowledge should be centred on the world model constructed in the brain, not primarily on externally stored facts, information, or isolated competences. The raw wording is retained in [Knowledge as a world model: learner correction](/thinking/knowledge-as-world-model/). The revised working note is [Knowledge as a World Model](/knowledge/knowledge-as-world-model/); independent explanation, application, or revision of this framing remains unverified.
 
 ## High-signal evidence
 
@@ -53,7 +53,9 @@ Develop a practical model of **understanding** and its cognitive supports: disti
 
 ## Current working model
 
-A robust understanding is not mere recall or fluent paraphrase. It should support: **explanation, prediction, application/transfer, and inspection or revision of assumptions when conditions change.** This is a working model to be tested further, not yet a mastery claim.
+Knowledge is now treated as the learner's **revisable internal world model**: organised representations of objects, relations, conditions, procedures, and likely consequences. External notes, data, books, videos, and LLM responses are model resources; availability alone does not make them the learner's knowledge. A model may be incomplete or wrong, so support, conditions, predictions, and possible counterevidence remain necessary checks.
+
+A robust understanding is not mere recall or fluent paraphrase. It is demonstrated use and revision of a relevant part of that world model through **explanation, prediction, application/transfer, and inspection or revision of assumptions when conditions change.** This is a working model to be tested further, not yet a mastery claim.
 
 A practical hierarchy now separates recognition, explanation, guided application, independent proficiency, transfer/flexible mastery, and creation/teaching. **Mastery** should be recorded only against a defined task context and supported by evidence of accuracy, stability, independence, transfer, and error correction. The learner has received this framework but has not yet independently applied it to classify examples.
 
@@ -63,7 +65,7 @@ The learner was asked to compare: (A) strong concentration and memory with only 
 
 ## Immediate next action
 
-The learner has received the distinctions between cognitive supports and understanding ability, and between understanding and mastery. Next, complete [Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/) and [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/) without notes. Then diagnose one real learning difficulty as primarily missing knowledge/model, cognitive load, or both.
+Without notes, explain the world-model framing using one original everyday example: distinguish the world event, an external representation, the relevant internal relation, a prediction or action it supports, and what would revise it. Then continue with [Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/) and [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/). Diagnose one real learning difficulty as primarily a missing or inaccurate model, cognitive load, or both.
 
 ## Linked evidence
 
@@ -76,9 +78,10 @@ The learner has received the distinctions between cognitive supports and underst
 - Cognitive-support distinction: [Cognitive supports versus understanding ability](/knowledge/cognitive-supports-versus-understanding/)
 - Ability definition: [Ability and understanding ability](/knowledge/ability-and-understanding-ability/)
 - Vocabulary framework: [Understanding a word or idiom](/knowledge/understanding-words-and-idioms/)
+- Core knowledge correction: [Knowledge as a World Model](/knowledge/knowledge-as-world-model/)
+- Raw learner correction: [Knowledge as a world model: learner correction](/thinking/knowledge-as-world-model/)
 - Next drill: [Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/)
 - Mastery framework: [Understanding and mastery](/knowledge/understanding-and-mastery/)
 - Connected concept map: [Learning concept map: from cognitive supports to mastery](/knowledge/learning-concept-map/) and [`../Diagrams/2026-09-11-learning-concept-map.svg`](/Diagrams/2026-09-11-learning-concept-map.svg)
 - Chunked example guide for quick re-entry: [Learning concept map explained in blocks: pick it up with examples anytime](/knowledge/learning-concept-map-explained/)
 - Mastery-level drill: [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/)
-

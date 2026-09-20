@@ -15,7 +15,7 @@ record_type: knowledge
 > **Chinese version:** [/zh-hant/knowledge/knowledge-as-a-working-model/](/zh-hant/knowledge/knowledge-as-a-working-model/)
 
 
-> **Status:** Explanatory working note created on 2026-09-15. It distinguishes philosophical questions about knowledge from classifications that are useful for learning. It is not evidence that the learner can yet use the distinctions independently.
+> **Status:** Explanatory working note created on 2026-09-15 and reframed on 2026-09-20. It distinguishes philosophical questions about knowledge from classifications that are useful for learning. The workspace now reads those classifications as parts, resources, or performance consequences of a learner's world model. It is not evidence that the learner can yet use the distinctions independently.
 >
 > **Sources:** See the cited workspace source record, which is not present in this archive.
 
@@ -27,7 +27,9 @@ In epistemology, the central case is **propositional knowledge**: *knowing that*
 
 For this workspace, use the following practical definition:
 
-> **Knowledge is relatively dependable, appropriately supported content or competence that a person can retain, retrieve, and use to guide accurate reasoning or action in a specified context.**
+> **Knowledge is the relatively dependable, appropriately supported, and usable part of a person's revisable world model: their organised internal representations of things, relations, conditions, procedures, and likely consequences.**
+
+External notes, books, videos, measurements, and LLM replies are **model resources**, not automatically the learner's knowledge. Facts and procedures are model components; skill and competence are demonstrated performance using the model. See [Knowledge as a World Model](/knowledge/knowledge-as-world-model/) for the corrected core map.
 
 “Relatively dependable” matters. Most empirical knowledge is revisable when better evidence, better measurement, or changed conditions appear. Knowledge is therefore not the same as certainty.
 
@@ -68,6 +70,10 @@ The example contains both **propositional knowledge** (knowing that Route A is u
 | **Competence** | The ability to design a recall test, record errors, and schedule a later retest. |
 
 The line between **knowledge** and **certainty** remains important: a well-supported, condition-sensitive claim can be usable knowledge even when it remains open to revision.
+
+## Reading the classifications after the correction
+
+The following categories remain useful, but they no longer imply that knowledge is primarily a collection stored outside the learner. Facts, concepts, procedures, strategies, and metacognitive claims are potential components of an internal world model. Understanding is demonstrated use and revision of the relevant component; skill and mastery are reliable performance using it. A person can have access to an external resource without yet having built the corresponding model.
 
 ## 2. Two different ways to classify knowledge
 
@@ -149,9 +155,9 @@ This note is an explanation provided by the LLM. It records no independent learn
 
 ## Related files
 
+- Core correction: [Knowledge as a World Model](/knowledge/knowledge-as-world-model/)
 - Scope correction: [Scope correction: knowledge rather than understanding](/thinking/knowledge-scope-clarification/)
 - Understanding working model: [Understanding as a working model](/knowledge/understanding-as-a-working-model/)
 - Understanding and mastery: [Understanding and mastery](/knowledge/understanding-and-mastery/)
 - Current goal: [Current Goal](/goals/current-goal/)
-
 

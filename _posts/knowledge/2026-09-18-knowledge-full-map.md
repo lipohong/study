@@ -15,21 +15,22 @@ record_type: knowledge
 
 > **Chinese version:** [/zh-hant/knowledge/knowledge-full-map/](/zh-hant/knowledge/knowledge-full-map/)
 
-> **Status:** Working map for learning and diagnosis, created on 2026-09-18. It combines this workspace's practical definition of knowledge with the useful distinctions—and corrections—drawn from the KL02 subtitle. It is not a final philosophical theory, and it is not evidence that the learner can yet use every distinction independently.
+> **Status:** Working map for learning and diagnosis, created on 2026-09-18 and reframed on 2026-09-20. It combines the useful distinctions—and corrections—drawn from the KL02 subtitle with the workspace's current core premise: knowledge is a learner's constructed, revisable world model. It is not a final philosophical theory, and it is not evidence that the learner can yet use every distinction independently.
 
 ## The core idea
 
-For this workspace, **knowledge** is relatively dependable, appropriately supported content or competence that a person can retain, retrieve, and use to guide more accurate reasoning or action in a specified context.
+For this workspace, **knowledge** is the relatively dependable, appropriately supported, and usable part of a learner's revisable world model: their organised internal representations of objects, relations, conditions, procedures, and likely consequences.
 
 This definition deliberately has limits:
 
 - **Relatively dependable**, not certain: empirical claims can require revision.
 - **Appropriately supported**, not merely heard or confidently believed.
 - **Specified context**, not “always” or “for every case.”
-- **Content or competence**: knowing a claim and knowing how to do something are both relevant, but they are not identical.
-- **Usable**: unavailable or inert material cannot guide the person when it matters.
+- **Internal model, not external storage**: a note, book, video, or LLM reply can update a model, but is not automatically the learner's knowledge.
+- **Facts, procedures, and competences differ**: facts and procedures can be model components; skill and competence are performance using the model.
+- **Usable**: unavailable or inert model components cannot guide the person when it matters.
 
-The KL02 video adds a helpful question: *What reusable relation or structure lies behind individual pieces of information?* Its mistake is to call only that reusable structure “knowledge.” Facts, terms, examples, procedures, and records are also knowledge resources; a conceptual model connects them so they can be used.
+The KL02 video adds a helpful question: *What reusable relation or structure lies behind individual pieces of information?* Its mistake is to treat externally recorded material as a hierarchy that automatically becomes knowledge. Facts, terms, examples, procedures, and records are model resources. The learner constructs knowledge when these become organised internal relations that can be tested and revised.
 
 ## One running example: choosing a commute
 
@@ -42,9 +43,9 @@ A commuter normally takes Route A to work. One morning, the official transit app
 | **Measurement rule** | A convention that makes records comparable. | The app defines what counts as a delay and timestamps its estimate. | A universal law about all rail journeys. |
 | **Data** | Recorded values or observations under stated conventions. | Delay times for comparable weekday journeys. | An explanation of why the delays occur. |
 | **Information** | A meaningful, contextual statement interpreted from data or reports. | “Route A has a twelve-minute delay this morning.” | A guarantee about every future morning. |
-| **Knowledge resources** | Supported facts, terms, examples, rules, and procedures. | Knowing the alternative routes, typical journey times, and how to read the alert. | One single theory that answers everything. |
-| **Conceptual model** | An organised relation that explains or predicts under conditions. | “When Route A has a substantial disruption at this time, its normal predictability falls; compare alternatives before leaving.” | A memorised slogan such as “Route A is always best.” |
-| **Understanding** | Usable grasp shown through reasoning with the model. | Predicts late arrival if staying on Route A; explains why; changes route when the conditions fit. | Repeating the model without using it. |
+| **Model resources** | External facts, terms, examples, rules, and procedures that can update a learner's model. | The alert, route map, typical journey times, and instructions for checking alternatives. | Knowledge merely because the materials are available. |
+| **World model / knowledge** | An organised internal relation that explains or predicts under conditions. | “When Route A has a substantial disruption at this time, its normal predictability falls; compare alternatives before leaving.” | A memorised slogan or an unconnected external note. |
+| **Understanding** | Demonstrated reasoning with and revision of the model. | Predicts late arrival if staying on Route A; explains why; changes route when the conditions fit. | Repeating the model without using it. |
 | **Mastery** | Reliable, independent, appropriately flexible performance in a defined task class. | Repeatedly checks relevant evidence, chooses well, and corrects errors across varied disruptions. | One lucky correct route choice. |
 | **Wise decision** | A choice that uses knowledge while balancing goals, values, uncertainty, and constraints. | Choose the route that best fits the need to arrive on time, cost, safety, and current information. | A rule that is automatically best for every goal. |
 
@@ -57,7 +58,7 @@ flowchart TB
     Rule --> Data["Data<br/>Comparable delay records"]
     Data --> Info["Contextual information<br/>Route A has a 12-minute delay now"]
 
-    Facts["Knowledge resources<br/>Facts, terms, examples, procedures"] --> Model["Conceptual model<br/>Relations, mechanisms, conditions"]
+    Facts["External model resources<br/>Facts, terms, examples, procedures"] --> Model["World model / knowledge<br/>Internal relations, mechanisms, conditions"]
     Info --> Model
     Model --> Predict["Explain and predict<br/>What changes if I stay or switch?"]
     Predict --> Observe["Act and observe<br/>Compare outcome with prediction"]
@@ -92,9 +93,9 @@ A spreadsheet can show that Route A was delayed on several mornings. “Route A 
 
 A model must name a relation, mechanism, or conditional regularity. For example: “During a signal failure, Route A's usual timetable is no longer a good predictor; current service status should outweigh the usual route preference.” The claim can still be wrong, but it is now clear enough to test.
 
-### 3. Knowledge is broader than a general law
+### 3. Knowledge is an internal model, not a general law or external collection
 
-The video is right that reusable relations are particularly valuable. They support transfer. But a relation cannot be built or checked without other resources:
+The video is right that reusable relations are particularly valuable. They support transfer. But neither a general law nor a pile of external resources is yet the learner's knowledge. The learner needs to construct a relation from and test it against resources such as:
 
 - a **fact**: Route B exists;
 - a **term**: what “service disruption” means;
@@ -102,14 +103,14 @@ The video is right that reusable relations are particularly valuable. They suppo
 - a **procedure**: how to compare route alerts;
 - a **relation**: a large current delay weakens the value of Route A's usual reliability.
 
-Do not choose between “information bricks” and “knowledge structure.” Build a tested structure *from* appropriately supported materials.
+Do not choose between “information bricks” and “knowledge structure.” Build and test a revisable internal structure *from* appropriately supported materials.
 
 ### 4. Understanding, mastery, and wisdom answer different questions
 
 | Question | Concept | Evidence in the commute example |
 |---|---|---|
-| What reliable material or competence is available? | **Knowledge** | The commuter knows routes, alert terms, and a conditional relation. |
-| Can the person reason with it in a changed case? | **Understanding** | They explain why the normal route rule no longer applies and predict the consequence. |
+| What relevant relation has the person constructed in their world model? | **Knowledge** | The commuter has an internal relation connecting disruption, route reliability, and alternative-route comparison. |
+| Can the person reason with and revise it in a changed case? | **Understanding** | They explain why the normal route rule no longer applies, predict the consequence, and update the relation when evidence conflicts. |
 | Can the person do it accurately and independently over time? | **Mastery** | They repeatedly make sound route choices without prompts and correct errors. |
 | What should be done, given competing aims? | **Wisdom / decision** | They balance punctuality, cost, safety, energy, and uncertainty. |
 
@@ -162,6 +163,7 @@ Its standard is practical: can the learner use appropriately supported material 
 
 ## Related notes
 
+- [Knowledge as a World Model](/knowledge/knowledge-as-world-model/)
 - [Knowledge: a working map](/knowledge/knowledge-as-a-working-model/)
 - [Knowledge, Information, and Understanding: KL02 Analysis](/knowledge/knowledge-information-understanding-analysis/)
 - [Understanding as a working model](/knowledge/understanding-as-a-working-model/)

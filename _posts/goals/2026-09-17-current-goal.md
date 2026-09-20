@@ -19,13 +19,13 @@ record_type: goals
 
 ## Goal statement
 
-**Outcome I want:** Develop a usable understanding of how to improve cognitive supports (attention, working memory, and self-regulation) and understanding ability (explanation, prediction, application, transfer, and model revision), without confusing one with the other.
+**Outcome I want:** Develop a usable model in which knowledge is the learner's constructed, revisable world model; distinguish external model resources from knowledge, and distinguish knowledge, understanding, cognitive supports, skill, and mastery without confusing them.
 
 ## First concrete target
 
-- **Skill / topic:** Analyse the quality of an explanation or claim; distinguish cognitive supports from understanding ability; and distinguish understanding from levels of mastery.
-- **Why it matters now:** I want to learn actively rather than mistake a remembered rule, fluent explanation, or strong memory for real understanding.
-- **Observable performance by date:** By the next review, independently analyse three unfamiliar everyday claims. For each claim, identify relevant conditions/variables, rewrite any overstrong statement, explain what evidence would demonstrate understanding, state whether a difficulty is primarily a cognitive-support issue, a knowledge/model issue, or both, and classify the evidence as recognition, explanation, guided application, independent proficiency, transfer, or teaching/creation.
+- **Skill / topic:** Analyse the quality of a world model or claim; distinguish a world event, an external representation, and an internal model relation; distinguish cognitive supports from understanding ability; and distinguish understanding from levels of mastery.
+- **Why it matters now:** I want to learn actively rather than mistake an external note, remembered rule, fluent explanation, or strong memory for a tested internal model and real understanding.
+- **Observable performance by date:** By the next review, independently analyse three unfamiliar everyday claims. For each claim, distinguish the world event, relevant external representations, and the internal relation to construct; identify relevant conditions/variables; make a changed-case prediction; state what would revise the model; explain what evidence would demonstrate understanding; state whether a difficulty is primarily a cognitive-support issue, a knowledge/model issue, or both; and classify the evidence as recognition, explanation, guided application, independent proficiency, transfer, or teaching/creation.
 - **Deadline / review date:** 2026-09-17
 - **Real-world context where I will use it:** Evaluating my own learning in study, work, and life.
 
@@ -44,6 +44,7 @@ record_type: goals
 I will consider this goal achieved when:
 
 - [ ] I can distinguish memorisation, partial understanding, and robust understanding in unfamiliar examples.
+- [ ] I can distinguish an external information resource from an internal world-model relation that I can retrieve and use.
 - [ ] I can state the conditions and relevant variables behind a causal claim.
 - [ ] I can rewrite an absolute or overgeneralised claim into a testable conditional statement.
 - [ ] I can make a prediction in a changed scenario and explain the mechanism.
@@ -52,7 +53,7 @@ I will consider this goal achieved when:
 
 ## Today’s next smallest action
 
-- [ ] Complete the mastery-level classification drill without notes: for each case, distinguish understanding from mastery, state the highest supported level, and explain why a higher level is not yet justified.
+- [ ] Without notes, use one original everyday example to distinguish a world event, an external representation, an internal model relation, a prediction it supports, and evidence that would revise it.
 
 ## Related files
 
@@ -63,3 +64,4 @@ I will consider this goal achieved when:
 - First drill: [Practice Drill: Conditional causal claims](/practice/drills/conditional-claims/)
 - Connected concept map: [Learning concept map: from cognitive supports to mastery](/knowledge/learning-concept-map/)
 - Quick re-entry guide with examples: [Learning concept map explained in blocks: pick it up with examples anytime](/knowledge/learning-concept-map-explained/)
+- Core correction: [Knowledge as a World Model](/knowledge/knowledge-as-world-model/)

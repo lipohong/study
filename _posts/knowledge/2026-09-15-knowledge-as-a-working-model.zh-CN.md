@@ -19,7 +19,7 @@ record_type: knowledge
 
 > **中文版本說明：** 英文對應檔 [Knowledge: a working map](/knowledge/knowledge-as-a-working-model/) 是準則來源（canonical source of truth）；如有歧義，以英文版為準。
 >
-> **狀態：** 於 2026-09-15 建立的解釋性工作筆記。它分開哲學上關於 knowledge 的問題，與對學習有用的分類；它不是學習者已能獨立運用這些分別的證據。
+> **狀態：** 於 2026-09-15 建立、並於 2026-09-20 重新定位的解釋性工作筆記。它分開哲學上關於 knowledge 的問題，與對學習有用的分類；workspace 現把這些分類理解為學習者世界模型的組成、資源或表現後果。它不是學習者已能獨立運用這些分別的證據。
 >
 > **來源：** 見 the cited workspace source record, which is not present in this archive。
 
@@ -31,7 +31,9 @@ record_type: knowledge
 
 本工作區採用以下實用定義：
 
-> **知識是在指定情境中，相對可靠、得到適當支持，而且一個人能保留、提取並用來引導準確推理或行動的內容或能力。**
+> **知識是一個人可修訂的世界模型中，相對可靠、得到適當支持而可被使用的部分：對事物、關係、條件、程序和可能後果所作的、內在而有組織的表徵。**
+
+外部筆記、書籍、影片、量度和 LLM 回應是**模型資源**，不會自動成為學習者的知識。事實和程序是模型組成；技能和能力是使用模型時已展示的表現。請見已修正的核心地圖：[知識作為世界模型](/zh-hant/knowledge/knowledge-as-world-model/)。
 
 「相對可靠」很重要。大部分 empirical knowledge（經驗知識）會隨着更好的證據、更好的測量，或條件改變而需要修正。因此，知識不等於絕對確定。
 
@@ -72,6 +74,10 @@ record_type: knowledge
 | **能力** | 設計回憶測驗、記錄錯誤和安排之後重測的能力。 |
 
 **Knowledge 與 certainty 的界線**仍然重要：一個有足夠支持、對條件敏感的主張，可以是可用的 knowledge，即使它仍然對修正保持開放。
+
+## 修正後怎樣閱讀這些分類
+
+以下分類仍然有用，但它們不再表示知識主要是儲存在學習者外部的集合。事實、概念、程序、策略和後設認知主張，是內在世界模型的潛在組成。理解是對相關組成作出已展示的使用和修訂；技能和 mastery 是使用它的可靠表現。一個人可接觸外部資源，卻尚未構建相應的模型。
 
 ## 2. 分類知識的兩條不同軸線
 
@@ -153,8 +159,8 @@ Conditional/strategic knowledge 有時會被歸入 procedural 或 metacognitive 
 
 ## 相關檔案
 
+- 核心修正：[知識作為世界模型](/zh-hant/knowledge/knowledge-as-world-model/)
 - 範圍修正：[Scope correction: knowledge rather than understanding](/thinking/knowledge-scope-clarification/)
 - Understanding 工作模型：[Understanding as a working model](/knowledge/understanding-as-a-working-model/)
 - Understanding 與 mastery：[Understanding and mastery](/knowledge/understanding-and-mastery/)
 - 目前目標：[Current Goal](/goals/current-goal/)
-
