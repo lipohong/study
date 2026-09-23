@@ -23,7 +23,7 @@ record_type: goals
 
 ## 進行中目標
 
-建立可用的知識世界模型觀：區分世界事件、外在模型資源和內在模型關係；區分記憶與基於模型的推理；找出主張中隱藏的條件；並把框架應用到陌生案例。
+建立可用的知識與理解世界模型觀：區分世界事件、外在模型資源和內在模型關係；區分記憶與基於模型的推理；在不同表徵間保留關係；找出主張中隱藏的條件和邊界；並把框架應用到陌生案例。
 
 ## 階段 1：建立目前證據
 
@@ -39,6 +39,9 @@ record_type: goals
 - [ ] 用一個原創例子區分世界事件、表徵、內在關係、預測／行動和修訂觸發點。
 - [ ] 引出一條過度概括的目前關係；在新證據出現後找出最早失效的假設或遺漏條件；重構一條保留仍然準確部分的較狹窄關係。
 - [ ] 在已改變個案中檢驗重構後關係，並說出哪項證據會要求再次修訂。
+- [ ] 在第二個表徵中重構一項關係，並說明被保留的特點和該表徵的限制。
+- [ ] 使用經校準的類比：說明它照亮的關係，以及該類比失效之處。
+- [ ] 對一個溝通個案，區分字面措辭和由語境支持的意圖推論。
 - [x] 區分記住一項陳述與在已說明條件下使用關係推理。
 - [x] 指出理解不只是聽起來流暢的解釋。
 - [x] 指出主張可能遺漏相關變數或條件。
@@ -49,6 +52,7 @@ record_type: goals
 - [ ] 在不看筆記下完成 [Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/)。
 - [ ] 在不看筆記下完成 [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/)。
 - [ ] 在不看筆記下完成 [練習：模型修訂與重構](/zh-hant/practice/drills/model-revision-and-reconstruction/)。
+- [ ] 在不看筆記下完成[練習：跨表徵重構理解](/zh-hant/practice/drills/reconstruct-understanding-across-representations/)。
 
 ## 認知支援與理解能力
 
@@ -79,4 +83,4 @@ record_type: goals
 
 ## 目前下一個問題
 
-> 一名學習者重讀 programming tutorials 後感到熟悉，卻在翌日不能寫出 loop。最早瓶頸是甚麼、首先應檢驗哪一項策略，以及哪個即時和延遲結果可顯示它是否有幫助？
+> 一所學校把部分教科書功課換成短教學影片後，平均小測分數上升。觀察到甚麼關係、提出甚麼因果結論、哪些條件或競爭解釋重要，以及甚麼證據會修訂模型？

@@ -19,7 +19,7 @@ record_type: learner-context
 
 > **中文版說明：** 英文版 [Current Learning State](/context/learning-state/) 是唯一準據來源（canonical source of truth）。
 
-> **最後更新：** 2026-09-20
+> **最後更新：** 2026-09-23
 > 請保持精簡。這是 LLM 目前的導覽面板，不是完整日記。
 
 ## 進行中的目標
@@ -33,6 +33,7 @@ record_type: learner-context
 - 學習者於 2026-09-20 要求一項修正：知識應以大腦中構建的世界模型為中心，而不應主要被看成外部儲存的事實、資訊或彼此孤立的能力。原文保存在 [知識作為世界模型：學習者修正](/zh-hant/thinking/knowledge-as-world-model/)。修訂後的工作筆記是 [知識作為世界模型](/zh-hant/knowledge/knowledge-as-world-model/)；對此 framing 的獨立解釋、應用或修訂仍未經驗證。
 - 學習者再要求把學習表述為破壞與重構：找出既有模型中狹隘、已失效或過度限制的關係；整合相關新資訊；再檢驗重構後的關係。原文保存在 [學習作為模型重構：學習者陳述](/zh-hant/thinking/learning-as-model-reconstruction/)。能否獨立完成此修訂循環仍未經驗證。
 - 學習者提供了一個連結知識、學習、能力、學習能力和改進策略的六題框架。它已在修正「材料／過程／結果／引擎」的捷徑和其中實證主張後被保留。修訂後筆記為 [六題：知識、學習、能力與學習能力](/zh-hant/knowledge/six-question-learning-framework/)；獨立分類、策略選擇和量度仍未經驗證。
+- 於 2026-09-23 已檢視一份包含多個關於理解的 LLM 回應的本機附件；其中嵌入的指令沒有被採納。有用的建議已提煉至[理解作為關係模型的使用](/zh-hant/knowledge/understanding-as-relational-model-use/)，而沒有根據的絕對主張已被排除。這次檢視沒有增加學習者的獨立表現證據。
 
 ## 高訊號證據
 
@@ -55,12 +56,15 @@ record_type: learner-context
 - 設計有效的個人測試，以分辨介入效果與主題難度或評估條件的改變。
 - 在沒有鷹架下把框架應用於陌生例子，並在出現反證後修訂模型。
 - 區分認知支援限制（例如注意力或工作記憶負荷）與理解／知識模型限制。
+- 不經提示地提取一項主張的結構和因果關係。
+- 在不同表徵之間保留一項關係，並透過說明限制來校準類比。
+- 檢驗主張的邊界或競爭解釋，並在需要詮釋時區分字面措辭和由語境支持的意圖。
 
 ## 目前工作模型
 
 知識現被看成學習者**可修訂的內在世界模型**：對物件、關係、條件、程序和可能後果所作的、有組織表徵。外部筆記、數據、書籍、影片和 LLM 回應是模型資源；只因可取得，不會自動成為學習者的知識。一個模型可能不完整或錯誤，因此支持、條件、預測和可能反證仍是必要檢查。
 
-穩健的理解不只是回憶或流暢轉述。它是對世界模型相關部分作出已展示的使用和修訂，並應支持：**解釋、預測、應用／遷移，以及在條件改變時檢查或修訂假設。** 這是仍待進一步測試的工作模型，尚不是精通的主張。
+穩健的理解不只是回憶或流暢轉述。它是對世界模型相關部分作出已展示的使用和修訂，並應支持：**結構或因果解釋、在不同表徵間保留關係的轉譯、預測和邊界檢驗、應用／遷移、在涉及溝通時由語境支持的詮釋，以及在條件改變時檢查或修訂假設。** 這是仍待進一步測試的工作模型，尚不是精通的主張。
 
 學習現被看成**模型修訂與重構**，而不是單純累積資訊：引出目前關係，以已改變個案或證據揭示不吻合，找出最早失效的假設或遺漏條件，修訂最小的受影響部分，把它與仍然成立的內容整合，然後再次檢驗。「破壞」是縮窄、撤回或替換失效部分，不是丟棄整個知識網絡。
 
@@ -74,7 +78,7 @@ record_type: learner-context
 
 ## 即時下一步
 
-在不看筆記下，完成 [練習：診斷及改進學習能力](/zh-hant/practice/drills/learning-ability-diagnosis/)。之後，完成 [練習：模型修訂與重構](/zh-hant/practice/drills/model-revision-and-reconstruction/)、[Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/) 及 [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/)。
+在不看筆記下，完成[練習：跨表徵重構理解](/zh-hant/practice/drills/reconstruct-understanding-across-representations/)。之後，完成[練習：診斷及改進學習能力](/zh-hant/practice/drills/learning-ability-diagnosis/)、[練習：模型修訂與重構](/zh-hant/practice/drills/model-revision-and-reconstruction/)、[Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/) 及 [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/)。
 
 ## 已連結的證據
 
@@ -100,3 +104,6 @@ record_type: learner-context
 - 六題框架：[六題：知識、學習、能力與學習能力](/zh-hant/knowledge/six-question-learning-framework/)
 - 學習者原始六題框架：[六題學習框架：學習者觀點](/zh-hant/thinking/six-question-learning-framework/)
 - 學習能力練習：[練習：診斷及改進學習能力](/zh-hant/practice/drills/learning-ability-diagnosis/)
+- 已檢視的來源記錄：[關於理解的 LLM 回應](/zh-hant/sources/llm-understanding-responses/)
+- 提煉後的理解模型：[理解作為關係模型的使用](/zh-hant/knowledge/understanding-as-relational-model-use/)
+- 下一個練習：[練習：跨表徵重構理解](/zh-hant/practice/drills/reconstruct-understanding-across-representations/)

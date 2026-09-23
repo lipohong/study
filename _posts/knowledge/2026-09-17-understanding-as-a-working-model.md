@@ -15,7 +15,7 @@ record_type: knowledge
 > **Chinese version:** [/zh-hant/knowledge/understanding-as-a-working-model/](/zh-hant/knowledge/understanding-as-a-working-model/)
 
 
-> **Status:** Working note — use and test; do not treat as a final philosophical definition.
+> **Status:** Working note — use and test; revised on 2026-09-23 to distinguish structural, representational, boundary, and contextual evidence. Do not treat as a final philosophical definition.
 > 
 > **Created:** 2026-09-10
 
@@ -29,6 +29,8 @@ Understanding is stronger than recalling a statement or producing a fluent parap
 4. **Inspect and revise assumptions** when a result conflicts with the model.
 
 Learning therefore requires more than receiving a correction: state the old relation, locate the earliest failed assumption or missing condition, revise the smallest affected part, integrate it with what still holds, and test the reconstructed model in another case.
+
+For stronger evidence, also ask whether the learner can preserve the core relation when translating between representations, identify a boundary or counterexample, and, in communication tasks, distinguish literal wording from context-supported inferences about intent.
 
 ## Practical distinction
 
@@ -57,4 +59,4 @@ A better claim must specify conditions such as learning method, attention, rest,
 
 ## Evidence and next test
 
-The learner has demonstrated the conditional reasoning pattern in a force/mass example and recognised omitted variables in everyday claims. Independent formulation and transfer remain to be tested in [Practice Drill: Conditional causal claims](/practice/drills/conditional-claims/) and [Practice Drill: Model revision and reconstruction](/practice/drills/model-revision-and-reconstruction/).
+The learner has demonstrated the conditional reasoning pattern in a force/mass example and recognised omitted variables in everyday claims. Independent formulation, multi-representational translation, calibrated analogy, contextual interpretation, and transfer remain to be tested in [Practice Drill: Conditional causal claims](/practice/drills/conditional-claims/), [Practice Drill: Model revision and reconstruction](/practice/drills/model-revision-and-reconstruction/), and [Practice Drill: Reconstruct Understanding Across Representations](/practice/drills/reconstruct-understanding-across-representations/).

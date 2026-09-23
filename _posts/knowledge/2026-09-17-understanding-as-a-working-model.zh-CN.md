@@ -19,7 +19,7 @@ record_type: knowledge
 
 > **中文版本說明：** 英文對應檔 [Understanding as a working model](/knowledge/understanding-as-a-working-model/) 是準則來源（canonical source of truth）；如有歧義，以英文版為準。
 >
-> **狀態：** 工作筆記；應使用和測試，不應視為最終的哲學定義。
+> **狀態：** 工作筆記；應使用和測試，並於 2026-09-23 修訂以區分結構、表徵、邊界和語境的證據。不應視為最終的哲學定義。
 >
 > **建立日期：** 2026-09-10
 
@@ -33,6 +33,8 @@ record_type: knowledge
 4. 結果與模型衝突時，**檢視和修正假設**。
 
 因此，學習不只接收一項修正：要說出舊關係、找出最早失效的假設或遺漏條件、修訂最小的受影響部分、把它與仍然成立的內容整合，並在另一個個案中檢驗重構後模型。
+
+要取得更強證據，亦要問學習者能否在表徵之間保留核心關係、指出邊界或反例，以及在溝通任務中把字面措辭與有語境支持的意圖推論分開。
 
 ## 實用區分
 
@@ -61,4 +63,4 @@ record_type: knowledge
 
 ## 證據和下一項測試
 
-學習者已在力／質量例子中展示條件推理模式，並在日常主張中辨認被遺漏的變項。獨立表述和遷移仍待測試，見 [練習：條件性的因果主張](/zh-hant/practice/drills/conditional-claims/) 及 [練習：模型修訂與重構](/zh-hant/practice/drills/model-revision-and-reconstruction/)。
+學習者已在力／質量例子中展示條件推理模式，並在日常主張中辨認被遺漏的變項。獨立表述、多表徵轉譯、校準類比、語境詮釋和遷移仍待測試，見 [練習：條件性的因果主張](/zh-hant/practice/drills/conditional-claims/)、[練習：模型修訂與重構](/zh-hant/practice/drills/model-revision-and-reconstruction/) 及 [練習：跨表徵重構理解](/zh-hant/practice/drills/reconstruct-understanding-across-representations/)。

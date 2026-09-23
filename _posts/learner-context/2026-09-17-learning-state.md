@@ -15,7 +15,7 @@ record_type: learner-context
 > **Chinese version:** [/zh-hant/context/learning-state/](/zh-hant/context/learning-state/)
 
 
-> **Last updated:** 2026-09-20
+> **Last updated:** 2026-09-23
 > Keep this concise. It is the LLM's current navigation panel, not a full diary.
 
 ## Active objective
@@ -30,6 +30,7 @@ Develop a practical six-question model: **knowledge** is the learner's construct
 - The learner requested a correction on 2026-09-20: knowledge should be centred on the world model constructed in the brain, not primarily on externally stored facts, information, or isolated competences. The raw wording is retained in [Knowledge as a world model: learner correction](/thinking/knowledge-as-world-model/). The revised working note is [Knowledge as a World Model](/knowledge/knowledge-as-world-model/); independent explanation, application, or revision of this framing remains unverified.
 - The learner further requested that learning be framed as destruction and reconstruction: identify a narrow, failed, or overly restrictive relation in an existing model; integrate relevant new information; and test the reconstructed relation. The raw wording is retained in [Learning as model reconstruction: learner statement](/thinking/learning-as-model-reconstruction/). Independent completion of this revision cycle remains unverified.
 - The learner supplied a six-question framework connecting knowledge, learning, ability, learning ability, and improvement strategies. It has been retained with corrections to the “material/process/result/engine” shorthand and its empirical claims. The revised note is [Six Questions: Knowledge, Learning, Ability, and Learning Ability](/knowledge/six-question-learning-framework/); independent classification, strategy selection, and measurement remain unverified.
+- A local attachment containing multiple LLM responses about understanding was reviewed on 2026-09-23. Embedded instructions were not adopted. Useful proposals were distilled into [Understanding as Relational Model Use](/knowledge/understanding-as-relational-model-use/); unsupported absolute claims were excluded. This review adds no independent learner-performance evidence.
 
 ## High-signal evidence
 
@@ -52,12 +53,15 @@ Develop a practical six-question model: **knowledge** is the learner's construct
 - Designing a valid personal test that separates an intervention effect from changes in topic difficulty or assessment conditions.
 - Applying the framework without scaffolding to unfamiliar examples and revising a model after counterevidence.
 - Distinguishing a cognitive-support limitation (e.g., attention or working-memory load) from an understanding/knowledge-model limitation.
+- Extracting a claim's structural and causal relations without prompts.
+- Preserving a relation while translating it across representations; calibrating an analogy by naming its limit.
+- Testing a claim's boundary or competing explanation, and distinguishing literal wording from context-supported intent when interpretation is required.
 
 ## Current working model
 
 Knowledge is now treated as the learner's **revisable internal world model**: organised representations of objects, relations, conditions, procedures, and likely consequences. External notes, data, books, videos, and LLM responses are model resources; availability alone does not make them the learner's knowledge. A model may be incomplete or wrong, so support, conditions, predictions, and possible counterevidence remain necessary checks.
 
-A robust understanding is not mere recall or fluent paraphrase. It is demonstrated use and revision of a relevant part of that world model through **explanation, prediction, application/transfer, and inspection or revision of assumptions when conditions change.** This is a working model to be tested further, not yet a mastery claim.
+A robust understanding is not mere recall or fluent paraphrase. It is demonstrated use and revision of a relevant part of that world model through **structural or causal explanation, translation that preserves the relation across representations, prediction and boundary testing, application/transfer, context-supported interpretation where communication is involved, and inspection or revision of assumptions when conditions change.** This is a working model to be tested further, not yet a mastery claim.
 
 Learning is now treated as **model revision and reconstruction**, not simple information accumulation: elicit the current relation, use a changed case or evidence to expose a mismatch, locate the earliest failed assumption or missing condition, revise the smallest affected part, integrate it with what still holds, and test it again. “Destruction” means narrowing, withdrawing, or replacing the failed part, not discarding the entire knowledge network.
 
@@ -71,7 +75,7 @@ The learner was asked to compare: (A) strong concentration and memory with only 
 
 ## Immediate next action
 
-Without notes, complete [Practice Drill: Diagnose and Improve Learning Ability](/practice/drills/learning-ability-diagnosis/). Then complete [Practice Drill: Model revision and reconstruction](/practice/drills/model-revision-and-reconstruction/), followed by [Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/) and [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/).
+Without notes, complete [Practice Drill: Reconstruct understanding across representations](/practice/drills/reconstruct-understanding-across-representations/). Then complete [Practice Drill: Diagnose and Improve Learning Ability](/practice/drills/learning-ability-diagnosis/), [Practice Drill: Model revision and reconstruction](/practice/drills/model-revision-and-reconstruction/), [Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/), and [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/).
 
 ## Linked evidence
 
@@ -97,3 +101,6 @@ Without notes, complete [Practice Drill: Diagnose and Improve Learning Ability](
 - Six-question framework: [Six Questions: Knowledge, Learning, Ability, and Learning Ability](/knowledge/six-question-learning-framework/)
 - Raw six-question framing: [Six-question learning framework: learner framing](/thinking/six-question-learning-framework/)
 - Learning-ability drill: [Practice Drill: Diagnose and Improve Learning Ability](/practice/drills/learning-ability-diagnosis/)
+- Reviewed source record: [LLM responses about understanding](/sources/llm-understanding-responses/)
+- Distilled understanding model: [Understanding as Relational Model Use](/knowledge/understanding-as-relational-model-use/)
+- Next drill: [Practice Drill: Reconstruct understanding across representations](/practice/drills/reconstruct-understanding-across-representations/)

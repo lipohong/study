@@ -19,7 +19,7 @@ record_type: goals
 
 ## Active goal
 
-Develop a usable world-model conception of knowledge: distinguish world events, external model resources, and internal model relations; distinguish memorisation from model-based reasoning; identify hidden conditions in claims; and apply the framework to unfamiliar cases.
+Develop a usable world-model conception of knowledge and understanding: distinguish world events, external model resources, and internal model relations; distinguish memorisation from model-based reasoning; preserve relations across representations; identify hidden conditions and boundaries in claims; and apply the framework to unfamiliar cases.
 
 ## Phase 1 — Establish current evidence
 
@@ -35,6 +35,9 @@ Develop a usable world-model conception of knowledge: distinguish world events, 
 - [ ] In one original example, distinguish world event, representation, internal relation, prediction/action, and revision trigger.
 - [ ] Elicit an overgeneralised current relation, identify the earliest failed assumption or missing condition after new evidence, and reconstruct a narrower relation that preserves what remains accurate.
 - [ ] Test the reconstructed relation in a changed case and name evidence that would require another revision.
+- [ ] Reconstruct one relation in a second representation and state the representation's preserved feature and limitation.
+- [ ] Use a calibrated analogy: state both the relation it illuminates and the point at which the analogy fails.
+- [ ] For a communication case, distinguish literal wording from a context-supported inference about intent.
 - [x] Distinguish remembering a statement from reasoning with a relation under stated conditions.
 - [x] Identify that understanding involves more than an explanation that merely sounds fluent.
 - [x] Identify that a claim can omit relevant variables or conditions.
@@ -45,6 +48,7 @@ Develop a usable world-model conception of knowledge: distinguish world events, 
 - [ ] Complete [Practice Drill: Cognitive supports versus understanding](/practice/drills/cognitive-supports-vs-understanding/) without notes.
 - [ ] Complete [Practice Drill: Classify understanding and mastery levels](/practice/drills/understanding-and-mastery-levels/) without notes.
 - [ ] Complete [Practice Drill: Model revision and reconstruction](/practice/drills/model-revision-and-reconstruction/) without notes.
+- [ ] Complete [Practice Drill: Reconstruct understanding across representations](/practice/drills/reconstruct-understanding-across-representations/) without notes.
 
 ## Cognitive support vs. understanding ability
 
@@ -75,4 +79,4 @@ Develop a usable world-model conception of knowledge: distinguish world events, 
 
 ## Current next question
 
-> A learner feels familiar after rereading programming tutorials but cannot write a loop the next day. What is the earliest bottleneck, which one strategy should be tested first, and what immediate and delayed result would show whether it helped?
+> A school replaces some textbook homework with short teaching videos and average quiz scores rise. What relation is observed, what causal conclusion is proposed, which conditions or competing explanations matter, and what evidence would revise the model?

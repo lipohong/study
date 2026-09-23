@@ -19,13 +19,13 @@ record_type: goals
 
 ## Goal statement
 
-**Outcome I want:** Develop a usable six-question model: knowledge is the learner's constructed, revisable world model; learning tests, revises, and reconstructs it; ability is reliable task performance; and learning ability improves the acquisition and revision cycle. Distinguish these from external model resources, cognitive supports, skill, and mastery without confusing them.
+**Outcome I want:** Develop a usable six-question model: knowledge is the learner's constructed, revisable world model; learning tests, revises, and reconstructs it; understanding is demonstrated use and revision of relevant model relations; ability is reliable task performance; and learning ability improves the acquisition and revision cycle. Distinguish these from external model resources, cognitive supports, skill, and mastery without confusing them.
 
 ## First concrete target
 
-- **Skill / topic:** Analyse and reconstruct a world model or claim; distinguish a world event, an external representation, an internal model relation, ability, and learning ability; locate the earliest failed assumption after new evidence; select one condition-sensitive learning strategy; define performance measures; and distinguish cognitive supports from understanding and mastery.
+- **Skill / topic:** Analyse and reconstruct a world model or claim; distinguish a world event, an external representation, an internal model relation, ability, and learning ability; preserve a relation across representations; identify an analogy's limit or a claim's boundary; distinguish literal wording from context-supported intent when needed; locate the earliest failed assumption after new evidence; select one condition-sensitive learning strategy; define performance measures; and distinguish cognitive supports from understanding and mastery.
 - **Why it matters now:** I want to learn actively rather than mistake an external note, remembered rule, fluent explanation, or strong memory for a tested internal model and real understanding.
-- **Observable performance by date:** By the next review, independently analyse three unfamiliar everyday claims. For each claim, distinguish the world event, relevant external representations, and the internal relation to construct; identify relevant conditions/variables; make a changed-case prediction; state what would revise the model; explain what evidence would demonstrate understanding and ability; diagnose whether a difficulty is primarily cognitive support, knowledge/model, practice, or strategy selection; choose one targeted strategy; define immediate and delayed measures; and classify the evidence as recognition, explanation, guided application, independent proficiency, transfer, or teaching/creation.
+- **Observable performance by date:** By the next review, independently analyse three unfamiliar everyday claims. For each claim, distinguish the world event, relevant external representations, and the internal relation to construct; identify relevant conditions/variables; preserve the relation in a second representation; make a changed-case prediction; state a boundary, competing explanation, or analogy limit; state what would revise the model; explain what evidence would demonstrate understanding and ability; diagnose whether a difficulty is primarily cognitive support, knowledge/model, practice, or strategy selection; choose one targeted strategy; define immediate and delayed measures; and classify the evidence as recognition, explanation, guided application, independent proficiency, transfer, or teaching/creation.
 - **Deadline / review date:** 2026-09-17
 - **Real-world context where I will use it:** Evaluating my own learning in study, work, and life.
 
@@ -48,6 +48,8 @@ I will consider this goal achieved when:
 - [ ] I can state the conditions and relevant variables behind a causal claim.
 - [ ] I can rewrite an absolute or overgeneralised claim into a testable conditional statement.
 - [ ] I can make a prediction in a changed scenario and explain the mechanism.
+- [ ] I can preserve a relevant relation in a second representation and name a boundary, counterexample, or analogy limit.
+- [ ] When communication is involved, I can distinguish literal wording from a context-supported inference about intent.
 - [ ] I can identify the smallest failed assumption or missing condition, revise the affected relation, and test it in a new case.
 - [ ] I can diagnose one learning bottleneck, select one suitable strategy, and define immediate and delayed evidence of improvement.
 - [ ] I have completed at least one representative drill and recorded feedback.
@@ -55,7 +57,7 @@ I will consider this goal achieved when:
 
 ## Today’s next smallest action
 
-- [ ] Without notes, complete [Practice Drill: Diagnose and Improve Learning Ability](/practice/drills/learning-ability-diagnosis/).
+- [ ] Without notes, complete [Practice Drill: Reconstruct understanding across representations](/practice/drills/reconstruct-understanding-across-representations/).
 
 ## Related files
 
@@ -69,3 +71,5 @@ I will consider this goal achieved when:
 - Core correction: [Knowledge as a World Model](/knowledge/knowledge-as-world-model/)
 - Learning process: [Learning as Model Revision and Reconstruction](/knowledge/learning-as-model-reconstruction/)
 - Six-question framework: [Six Questions: Knowledge, Learning, Ability, and Learning Ability](/knowledge/six-question-learning-framework/)
+- Understanding model: [Understanding as Relational Model Use](/knowledge/understanding-as-relational-model-use/)
+- Next drill: [Practice Drill: Reconstruct understanding across representations](/practice/drills/reconstruct-understanding-across-representations/)

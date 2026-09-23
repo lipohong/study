@@ -15,7 +15,7 @@ record_type: knowledge
 > **Chinese version:** [/zh-hant/knowledge/ability-and-understanding-ability/](/zh-hant/knowledge/ability-and-understanding-ability/)
 
 
-> **Status:** Working definition for learning and diagnosis, extended on 2026-09-20 to include learning ability.
+> **Status:** Working definition for learning and diagnosis, extended on 2026-09-23 to clarify task-dependent understanding evidence.
 > 
 > **Created:** 2026-09-10
 
@@ -34,14 +34,16 @@ Examples: remembering a sequence, sustaining attention, calculating, reading a g
 
 ## What is understanding ability?
 
-**Understanding ability** is the capacity to build and use a meaningful model of a topic rather than only repeat information about it.
+**Understanding ability** is the task-dependent capacity to build, interpret, test, revise, and use a meaningful model of a topic rather than only repeat information about it. It is evidenced by performance in a defined domain, not by a single global score.
 
 For a particular concept, evidence of understanding includes the ability to:
 
-1. **Explain** the relationship or mechanism: why does this happen?
-2. **Predict** a changed case: if this condition changes, what should happen?
-3. **Apply / transfer** the idea to a new but relevant case.
-4. **Diagnose, revise, and integrate**: identify a false assumption or repair the model when evidence conflicts with it, then connect the revision with what remains accurate.
+1. **Extract and explain structure**: identify the relevant objects, relations, conditions, mechanism, or purpose rather than only naming facts.
+2. **Translate representations**: preserve the key relation when moving between words, an example, a causal diagram, a formula, or another suitable representation.
+3. **Predict boundaries and changed cases**: state what should happen if a condition changes, and name a counterexample, limit, or competing explanation where appropriate.
+4. **Apply / transfer** the idea to a new but relevant case.
+5. **Interpret in context when the task is communicative**: separate what was said from the intent or implication inferred from wording, audience, and situation.
+6. **Diagnose, revise, and integrate**: identify a false assumption or repair the model when evidence conflicts with it, then connect the revision with what remains accurate.
 
 ## What is learning ability?
 
@@ -79,14 +81,16 @@ The learner can state that, with net force fixed, doubling mass halves accelerat
 
 ## Practical test
 
-For any topic, ask four questions:
+For any topic, ask six questions:
 
-1. Can I explain it without only repeating the definition?
-2. Can I predict a changed condition?
-3. Can I use it in a new example?
-4. Can I find what assumption failed if my prediction is wrong?
+1. Can I identify and explain the relevant relation, mechanism, condition, or purpose without only repeating the definition?
+2. Can I preserve that relation in a second representation, such as an example, causal diagram, formula, or plain-language explanation?
+3. Can I predict a changed condition and name a boundary, counterexample, or competing explanation?
+4. Can I use it in a new example?
+5. When interpretation matters, can I separate the literal wording from a context-supported inference about intent?
+6. Can I find what assumption failed if my prediction is wrong?
 
-If the answer is consistently yes, there is meaningful evidence of understanding ability for that topic.
+If the answer is consistently yes under relevant conditions, there is meaningful evidence of understanding ability for that topic. A teach-back, diagram, or analogy is a useful test only when it preserves the relation and its limits; it is not proof by itself.
 
 ## Practical test for learning ability
 
